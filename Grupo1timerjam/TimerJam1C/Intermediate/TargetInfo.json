@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TimerJam1C",
+			"Path": "..\\Source\\TimerJam1C.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TimerJam1CEditor",
+			"Path": "..\\Source\\TimerJam1CEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
