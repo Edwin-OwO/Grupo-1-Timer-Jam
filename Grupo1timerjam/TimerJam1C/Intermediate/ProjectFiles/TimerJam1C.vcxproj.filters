@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TimerJam1C.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TimerJam1C.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TimerJam1CEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TimerJam1C">
+      <UniqueIdentifier>{1A262108-F6BA-38A7-9E5E-F9AD3F884499}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TimerJam1C\TimerJam1C.Build.cs">
+      <Filter>Source\TimerJam1C</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TimerJam1C\TimerJam1C.cpp">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimerJam1C\TimerJam1C.h">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TimerJam1C\TimerJam1CCharacter.cpp">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimerJam1C\TimerJam1CCharacter.h">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TimerJam1C\TimerJam1CGameMode.cpp">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimerJam1C\TimerJam1CGameMode.h">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TimerJam1C\TimerJam1CPlayerController.cpp">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimerJam1C\TimerJam1CPlayerController.h">
+      <Filter>Source\TimerJam1C</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
