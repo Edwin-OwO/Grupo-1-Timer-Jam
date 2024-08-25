@@ -38,6 +38,16 @@
 				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Animations/BP_PlayerGnome.uasset",
 				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Input/IMC_Default.uasset",
 				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_PlayerGnome.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Maps/TopDownMap.umap",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Animations/ABP_Gnome.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Projectile.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Target.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/GM_Gnome.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Aseprite/Mago_gnomo/Frames/GnomeAttack.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Aseprite/Mago_gnomo/Frames/GnomeIdle.uasset",
+				"D:/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Input/Actions/IA_Attack.uasset",
 				"D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
 			]

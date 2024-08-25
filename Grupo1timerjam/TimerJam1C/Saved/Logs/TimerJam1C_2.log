@@ -18759,3 +18759,180 @@ Make sure 'BP_PlayerGnome_C' has been compiled for  Get Projectile Target
 [2024.08.25-05.13.56:272][289]LogUObjectHash: Compacting FUObjectHashTables data took   9.89ms
 [2024.08.25-05.13.56:395][290]LogPlayLevel: Display: Destroying online subsystem :Context_93
 [2024.08.25-05.13.56:399][290]LogViewport: Scene viewport resized to 463x276, mode Windowed.
+[2024.08.25-05.16.20:554][600]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-05.16.20:559][600]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-05.16.20:559][600]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.25-05.16.20:561][600]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 155 ms)
+[2024.08.25-05.16.20:561][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.25-05.16.20:561][600]PIE: New page: PIE session: TopDownMap (24 ago. 2024 23:16:20)
+[2024.08.25-05.16.20:575][600]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.25-05.16.20:579][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004067s)
+[2024.08.25-05.16.20:579][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004096s)
+[2024.08.25-05.16.20:594][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.08.25-05.16.20:602][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-05.16.20:602][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-05.16.20:603][600]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.25-05.16.20:603][600]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-05.16.20:603][600]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-05.16.20:603][600]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.25-05.16.20:603][600]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.25-05.16.20:604][600]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.25-05.16.20:604][600]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 700 ms)
+[2024.08.25-05.16.20:604][600]LogPlayLevel: PIE: World Init took: (0.002219s)
+[2024.08.25-05.16.20:604][600]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2024.08.25-05.16.20:604][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-05.16.20:604][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-05.16.20:604][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-05.16.20:605][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-05.16.20:605][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-05.16.20:605][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.25-05.16.20:605][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-05.16.20:605][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-05.16.20:605][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-05.16.20:605][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-05.16.20:605][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-05.16.20:607][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-05.16.20:676][600]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.25-05.16.20:676][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-05.16.20:676][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-05.16.20:676][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-05.16.20:677][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2024.08.25-05.16.20:677][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=74
+[2024.08.25-05.16.20:678][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2024.08.25-05.16.20:678][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2024.08.25-05.16.20:678][600]LogInit: FAudioDevice initialized with ID 74.
+[2024.08.25-05.16.20:678][600]LogAudio: Display: Audio Device (ID: 74) registered with world 'TopDownMap'.
+[2024.08.25-05.16.20:678][600]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2024.08.25-05.16.20:681][600]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.25-05.16.20:683][600]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.25-02.16.20
+[2024.08.25-05.16.20:683][600]LogWorld: Bringing up level for play took: 0.001735
+[2024.08.25-05.16.20:684][600]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2024.08.25-05.16.20:686][600]PIE: Server logged in
+[2024.08.25-05.16.20:686][600]PIE: Play in editor total start time 0,128 seconds.
+[2024.08.25-05.16.52:399][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-05.16.52:399][919]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.25-05.16.52:399][919]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-05.16.52:399][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-05.16.52:400][919]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.25-05.16.52:403][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-05.16.52:408][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-05.16.52:424][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-05.16.52:424][919]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2024.08.25-05.16.52:424][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2024.08.25-05.16.52:426][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2024.08.25-05.16.52:432][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.08.25-05.16.52:543][920]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2024.08.25-05.16.52:577][920]LogViewport: Scene viewport resized to 463x276, mode Windowed.
+[2024.08.25-05.17.04:430][ 70]LogDerivedDataCache: C:/Users/valentino/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.492 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1008 files in 1616 folders with total size 88 MiB.
+[2024.08.25-05.19.23:137][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.08.25-05.19.23:147][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Maps/TopDownMap_Auto0
+[2024.08.25-05.19.23:148][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/TopDownMap_Auto0815CA1D14566D9113A3A9EB99316FE28.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Maps/TopDownMap_Auto0.umap'
+[2024.08.25-05.19.23:155][485]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Maps/TopDownMap_Auto0.umap is in the /Temp path, will not scan.
+[2024.08.25-05.19.23:156][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ_Auto0
+[2024.08.25-05.19.23:157][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/WYHUFGT1WJ9CZ4YFES4YZQ_Auto00B447A5D4620EB9E9AD8F9B0E87BD87C.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ_Auto0.uasset'
+[2024.08.25-05.19.23:160][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17_Auto0
+[2024.08.25-05.19.23:160][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BGOXQC8DTC1SVGR2X56N17_Auto0C13FAEF24D63D72D56070EB714BA5E9F.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17_Auto0.uasset'
+[2024.08.25-05.19.23:161][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.043
+[2024.08.25-05.19.23:161][485]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2024.08.25-05.19.23:162][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.08.25-05.19.23:162][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.08.25-05.19.23:174][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto0
+[2024.08.25-05.19.23:174][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_TopDownCharacter_Auto0E89873934D87804C2DC9E59E9AA01A3C.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto0.uasset'
+[2024.08.25-05.19.23:175][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Aseprite/Mago_gnomo/Frames/GnomeAttack] ([1] browsable assets)...
+[2024.08.25-05.19.23:175][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Aseprite/Mago_gnomo/Frames/GnomeAttack]
+[2024.08.25-05.19.23:176][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Aseprite/Mago_gnomo/Frames/GnomeAttack_Auto0
+[2024.08.25-05.19.23:185][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/GnomeAttack_Auto02119DB274C448B11527D0D84EBB297D5.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/Aseprite/Mago_gnomo/Frames/GnomeAttack_Auto0.uasset'
+[2024.08.25-05.19.23:185][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/ABP_Gnome] ([2] browsable assets)...
+[2024.08.25-05.19.23:185][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/ABP_Gnome]
+[2024.08.25-05.19.23:185][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ABP_Gnome" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/Animations/ABP_Gnome_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.08.25-05.19.23:185][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/ABP_Gnome_Auto0
+[2024.08.25-05.19.23:185][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/ABP_Gnome_Auto072CD3B0548B3EC8509CB379F099AAEFB.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/Animations/ABP_Gnome_Auto0.uasset'
+[2024.08.25-05.19.23:186][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_PlayerGnome] ([2] browsable assets)...
+[2024.08.25-05.19.23:196][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_PlayerGnome]
+[2024.08.25-05.19.23:201][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_PlayerGnome_Auto0
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_PlayerGnome_Auto0F860783E47BB4D7DFBC93581EECA4620.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/BP_PlayerGnome_Auto0.uasset'
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/GM_Gnome] ([2] browsable assets)...
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/GM_Gnome]
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/GM_Gnome_Auto0
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/GM_Gnome_Auto074EBC81A4D1A8822CAB4BC85CAFB9C21.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/GM_Gnome_Auto0.uasset'
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Aseprite/Mago_gnomo/Frames/GnomeIdle] ([1] browsable assets)...
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Aseprite/Mago_gnomo/Frames/GnomeIdle]
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Aseprite/Mago_gnomo/Frames/GnomeIdle_Auto0
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/GnomeIdle_Auto09DB61F614DDE93EFDB6BA8BFD5F165E0.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/Aseprite/Mago_gnomo/Frames/GnomeIdle_Auto0.uasset'
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/Actions/IA_Attack]
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/Actions/IA_Attack_Auto0
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/IA_Attack_Auto0E1A29B8E4F560BA5C9D95FAB5B1EFB49.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Input/Actions/IA_Attack_Auto0.uasset'
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_Projectile] ([2] browsable assets)...
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_Projectile]
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_Projectile_Auto0
+[2024.08.25-05.19.23:218][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_Projectile_Auto0B7D484ED4567E017EECCDEAC940E4252.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/BP_Projectile_Auto0.uasset'
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_Target] ([2] browsable assets)...
+[2024.08.25-05.19.23:218][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_Target]
+[2024.08.25-05.19.23:219][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_Target_Auto0
+[2024.08.25-05.19.23:220][485]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_Target_Auto010821FC84BC43C44D3A10B9676DECEEC.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/BP_Target_Auto0.uasset'
+[2024.08.25-05.19.23:220][485]LogFileHelpers: Auto-saving content packages took 0.059
+[2024.08.25-05.23.02:615][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.08.25-05.23.05:204][248]LogSlate: Window 'Save Content' being destroyed
+[2024.08.25-05.23.05:276][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-05.23.05:654][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.25-05.23.05:675][248]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/TopDownMap
+[2024.08.25-05.23.05:675][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/TopDownMap10481D96466713B2172099852513FCAA.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Maps/TopDownMap.umap'
+[2024.08.25-05.23.05:935][248]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17
+[2024.08.25-05.23.05:942][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-05.23.05:971][248]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ
+[2024.08.25-05.23.05:971][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/WYHUFGT1WJ9CZ4YFES4YZQC51D953543A3FDE72F1322BBC1C0CC80.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ.uasset'
+[2024.08.25-05.23.06:021][248]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17
+[2024.08.25-05.23.06:021][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BGOXQC8DTC1SVGR2X56N17E704CAB449EF9EE01D91EE86478A3495.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17.uasset'
+[2024.08.25-05.23.06:042][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 723 ms)
+[2024.08.25-05.23.06:042][248]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17
+[2024.08.25-05.23.06:462][248]LogFileHelpers: Saving map 'TopDownMap' took 1.028
+[2024.08.25-05.23.06:462][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ABP_Gnome" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Animations/ABP_Gnome.uasset" SILENT=true
+[2024.08.25-05.23.06:478][248]LogSavePackage: Moving output files for package: /Game/Animations/ABP_Gnome
+[2024.08.25-05.23.06:478][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/ABP_GnomeDE16D9D14F6270C386F9F09602D5131A.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Animations/ABP_Gnome.uasset'
+[2024.08.25-05.23.06:540][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_PlayerGnome" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_PlayerGnome.uasset" SILENT=true
+[2024.08.25-05.23.06:642][248]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_PlayerGnome
+[2024.08.25-05.23.06:642][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_PlayerGnome4C1DEB434B92C92A291D0E8DAB91A27B.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_PlayerGnome.uasset'
+[2024.08.25-05.23.06:686][248]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17
+[2024.08.25-05.23.06:686][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BGOXQC8DTC1SVGR2X56N17C4B51796407B5511A7EDC09A43B52B9F.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/6R/BGOXQC8DTC1SVGR2X56N17.uasset'
+[2024.08.25-05.23.06:687][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Projectile" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Projectile.uasset" SILENT=true
+[2024.08.25-05.23.06:699][248]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Projectile
+[2024.08.25-05.23.06:699][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_Projectile707285514DEFE6D4E22D8EB0CF09DB3C.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Projectile.uasset'
+[2024.08.25-05.23.06:717][248]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ
+[2024.08.25-05.23.06:718][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/WYHUFGT1WJ9CZ4YFES4YZQF84A75AD47C179D67BA7E4B3B5EA6F2A.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/P9/WYHUFGT1WJ9CZ4YFES4YZQ.uasset'
+[2024.08.25-05.23.06:719][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Target" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Target.uasset" SILENT=true
+[2024.08.25-05.23.06:721][248]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Target
+[2024.08.25-05.23.06:721][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_Target264C9E3C4DAD6CB82E52019302ADB5A3.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Target.uasset'
+[2024.08.25-05.23.06:724][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.08.25-05.23.06:735][248]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.08.25-05.23.06:736][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_TopDownCharacter79FB6D9A48AB61F391A984B26BD1CCAD.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.08.25-05.23.06:747][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/GM_Gnome" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/GM_Gnome.uasset" SILENT=true
+[2024.08.25-05.23.06:750][248]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/GM_Gnome
+[2024.08.25-05.23.06:750][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/GM_Gnome346E84F14798F48BC418C18B0B9159A1.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/GM_Gnome.uasset'
+[2024.08.25-05.23.06:753][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Aseprite/Mago_gnomo/Frames/GnomeAttack" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Aseprite/Mago_gnomo/Frames/GnomeAttack.uasset" SILENT=true
+[2024.08.25-05.23.06:753][248]LogSavePackage: Moving output files for package: /Game/Aseprite/Mago_gnomo/Frames/GnomeAttack
+[2024.08.25-05.23.06:753][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/GnomeAttack8CA0418340FF849F3F555B9104C87576.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Aseprite/Mago_gnomo/Frames/GnomeAttack.uasset'
+[2024.08.25-05.23.06:762][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Aseprite/Mago_gnomo/Frames/GnomeIdle" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Aseprite/Mago_gnomo/Frames/GnomeIdle.uasset" SILENT=true
+[2024.08.25-05.23.06:776][248]LogSavePackage: Moving output files for package: /Game/Aseprite/Mago_gnomo/Frames/GnomeIdle
+[2024.08.25-05.23.06:776][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/GnomeIdle97AA63794876075CC8129482935C9615.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/Aseprite/Mago_gnomo/Frames/GnomeIdle.uasset'
+[2024.08.25-05.23.06:776][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/Actions/IA_Attack" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Input/Actions/IA_Attack.uasset" SILENT=true
+[2024.08.25-05.23.06:776][248]LogSavePackage: Moving output files for package: /Game/TopDown/Input/Actions/IA_Attack
+[2024.08.25-05.23.06:776][248]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/IA_Attack8CFC8B4C45B2F0DBBFFA42B990660E29.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Input/Actions/IA_Attack.uasset'
+[2024.08.25-05.23.06:806][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.53 sec (total: 2.25 sec)
+[2024.08.25-05.23.06:817][248]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Target.BP_Target_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Target_C_UAID_244BFE8EEFADAF1502_2046836473
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_PlayerGnome.BP_PlayerGnome_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_PlayerGnome_C_UAID_244BFE8EEFADAF1502_1826908472
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Animations/ABP_Gnome.ABP_Gnome
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_PlayerGnome.BP_PlayerGnome
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Projectile.BP_Projectile
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Target.BP_Target
+[2024.08.25-05.23.06:817][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.08.25-05.23.06:818][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/GM_Gnome.GM_Gnome
+[2024.08.25-05.23.06:818][248]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Aseprite/Mago_gnomo/Frames/GnomeAttack.GnomeAttack
+[2024.08.25-05.23.06:818][248]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Aseprite/Mago_gnomo/Frames/GnomeIdle.GnomeIdle
+[2024.08.25-05.23.06:818][248]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/TopDown/Input/Actions/IA_Attack.IA_Attack
