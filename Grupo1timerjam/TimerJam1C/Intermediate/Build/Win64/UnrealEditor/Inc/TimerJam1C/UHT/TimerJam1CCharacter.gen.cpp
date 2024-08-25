@@ -123,15 +123,15 @@ void EmptyLinkFunctionForGeneratedCodeTimerJam1CCharacter() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ATimerJam1CCharacter);
 	ATimerJam1CCharacter::~ATimerJam1CCharacter() {}
-	struct Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics
+	struct Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_ATimerJam1CCharacter, ATimerJam1CCharacter::StaticClass, TEXT("ATimerJam1CCharacter"), &Z_Registration_Info_UClass_ATimerJam1CCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATimerJam1CCharacter), 2384929731U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_2748211974(TEXT("/Script/TimerJam1C"),
-		Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_2748211974(TEXT("/Script/TimerJam1C"),
+		Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_TimerJam1CCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

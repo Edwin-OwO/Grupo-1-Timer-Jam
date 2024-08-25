@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cplayercontroller.gen.cpp",
+        "Source": "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cplayercontroller.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\timerjam1ceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\timerjam1ceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timerjam1c\\definitions.timerjam1c.h",
-            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1cplayercontroller.h",
-            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cplayercontroller.generated.h"
+            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timerjam1c\\definitions.timerjam1c.h",
+            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1cplayercontroller.h",
+            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
