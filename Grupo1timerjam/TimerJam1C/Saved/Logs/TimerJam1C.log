@@ -1469,3 +1469,329 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.26-21.54.58:780][828]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI
 [2024.08.26-21.55.13:652][907]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.08.26-21.55.30:715][958]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.02.51:278][279]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.03.21:757][371]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.05.33:814][485]BlueprintLog: New page: Compile BP_EnemyAI
+[2024.08.26-22.05.33:958][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.08.26-22.06.32:452][539]LogSlate: Window 'BP_EnemyAI' being destroyed
+[2024.08.26-22.06.55:576][873]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.06.59:825][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.08.26-22.06.59:828][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.021
+[2024.08.26-22.06.59:829][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemyAI] ([2] browsable assets)...
+[2024.08.26-22.06.59:854][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI]
+[2024.08.26-22.06.59:854][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemyAI]
+[2024.08.26-22.06.59:892][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_EnemyAI_Auto2
+[2024.08.26-22.06.59:892][885]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemyAI_Auto2ED1F15DC4E1D80FB8EAF78BC82C8C2E7.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/BP_EnemyAI_Auto2.uasset'
+[2024.08.26-22.06.59:951][885]LogFileHelpers: Auto-saving content packages took 0.122
+[2024.08.26-22.08.19:898][250]BlueprintLog: New page: Compile BP_EnemyAI
+[2024.08.26-22.08.19:950][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.08.26-22.08.20:827][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.08.20:902][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_EnemyAI" FILE="D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset" SILENT=true
+[2024.08.26-22.08.20:909][344]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemyAI
+[2024.08.26-22.08.20:910][344]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemyAICFB1B606424104259681378FF9130C71.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset'
+[2024.08.26-22.08.20:918][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 187 ms)
+[2024.08.26-22.08.20:920][344]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2024.08.26-22.08.20:920][344]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI
+[2024.08.26-22.08.27:816][147]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.26-22.08.34:935][987]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.08.26-22.08.34:935][987]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.08.26-22.08.34:937][987]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_0
+[2024.08.26-22.08.34:948][987]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_0
+[2024.08.26-22.08.35:512][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.08.26-22.08.35:512][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.08.26-22.08.35:517][ 45]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_UAID_B42E99E5CB01481602_1477536399
+[2024.08.26-22.08.35:518][ 45]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_UAID_B42E99E5CB01481602_1477536399
+[2024.08.26-22.09.42:800][ 10]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2024.08.26-22.09.42:800][ 10]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2024.08.26-22.09.42:807][ 10]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_EnemyAI_C_0
+[2024.08.26-22.09.42:812][ 10]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_EnemyAI_C_0
+[2024.08.26-22.09.43:665][100]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2024.08.26-22.09.43:665][100]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI_C
+[2024.08.26-22.09.43:670][100]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_EnemyAI_C_UAID_B42E99E5CB01481602_1545687400
+[2024.08.26-22.09.43:674][100]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_EnemyAI_C_UAID_B42E99E5CB01481602_1545687400
+[2024.08.26-22.10.39:780][581]BlueprintLog: New page: Compile BP_EnemyAI
+[2024.08.26-22.10.39:922][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.08.26-22.10.40:892][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.10.40:969][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_EnemyAI" FILE="D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset" SILENT=true
+[2024.08.26-22.10.40:976][664]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemyAI
+[2024.08.26-22.10.40:977][664]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemyAIA8ABEC554B846075E81EB0B87974774C.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset'
+[2024.08.26-22.10.40:985][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 280 ms)
+[2024.08.26-22.10.40:986][664]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2024.08.26-22.10.40:986][664]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI
+[2024.08.26-22.10.43:748][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.10.43:760][978]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.10.43:760][978]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.26-22.10.43:768][978]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 7 ms
+[2024.08.26-22.10.43:779][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.10.43:789][978]PIE: New page: PIE session: TopDownMap (26 ago. 2024 16:10:43)
+[2024.08.26-22.10.43:803][978]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.08.26-22.10.43:804][978]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.08.26-22.10.43:807][978]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.26-22.10.43:818][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010323s)
+[2024.08.26-22.10.43:818][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.010398s)
+[2024.08.26-22.10.43:834][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.08.26-22.10.43:840][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.10.43:841][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.10.43:841][978]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.26-22.10.43:843][978]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.10.43:843][978]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.10.43:843][978]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.26-22.10.43:844][978]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.26-22.10.43:846][978]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.10.43:846][978]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 735 ms)
+[2024.08.26-22.10.43:846][978]LogPlayLevel: PIE: World Init took: (0.007108s)
+[2024.08.26-22.10.43:847][978]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.08.26-22.10.43:847][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.10.43:847][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.10.43:847][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.10.43:847][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.10.43:847][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.10.43:847][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.26-22.10.43:847][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.10.43:848][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.10.43:848][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.10.43:848][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.10.43:848][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.10.43:850][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.10.43:890][978]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2024.08.26-22.10.43:890][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.10.43:890][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.10.43:890][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.10.43:892][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.08.26-22.10.43:892][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.08.26-22.10.43:894][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.08.26-22.10.43:894][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.08.26-22.10.43:894][978]LogInit: FAudioDevice initialized with ID 2.
+[2024.08.26-22.10.43:894][978]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2024.08.26-22.10.43:894][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.26-22.10.43:906][978]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.26-22.10.43:912][978]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.26-19.10.43
+[2024.08.26-22.10.43:942][978]LogWorld: Bringing up level for play took: 0.034588
+[2024.08.26-22.10.43:946][978]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.08.26-22.10.44:000][978]PIE: Server logged in
+[2024.08.26-22.10.44:001][978]PIE: Play in editor total start time 0,244 seconds.
+[2024.08.26-22.10.53:549][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.10.53:549][ 95]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.26-22.10.53:551][ 95]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.10.53:554][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.10.53:556][ 95]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.26-22.10.53:568][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.10.53:575][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.10.53:593][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.10.53:593][ 95]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.26-22.10.53:598][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.26-22.10.53:601][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.26-22.10.53:609][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.10.53:620][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.08.26-22.10.53:751][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.08.26-22.11.07:513][705]BlueprintLog: New page: Compile BP_EnemyAI
+[2024.08.26-22.11.07:646][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.08.26-22.11.08:274][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.11.08:353][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_EnemyAI" FILE="D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset" SILENT=true
+[2024.08.26-22.11.08:361][755]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemyAI
+[2024.08.26-22.11.08:362][755]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemyAI8C7DAB5948F118C1BB020AA47489DB67.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset'
+[2024.08.26-22.11.08:370][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 376 ms)
+[2024.08.26-22.11.08:371][755]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2024.08.26-22.11.08:371][755]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI
+[2024.08.26-22.11.10:849][ 40]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.11.10:857][ 40]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.11.10:857][ 40]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.26-22.11.10:859][ 40]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 9 ms)
+[2024.08.26-22.11.10:859][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.11.10:859][ 40]PIE: New page: PIE session: TopDownMap (26 ago. 2024 16:11:10)
+[2024.08.26-22.11.10:859][ 40]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.26-22.11.10:865][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006215s)
+[2024.08.26-22.11.10:865][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.006281s)
+[2024.08.26-22.11.10:881][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.08.26-22.11.10:884][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.11.10:885][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.11.10:885][ 40]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.26-22.11.10:886][ 40]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.11.10:886][ 40]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.11.10:886][ 40]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.26-22.11.10:886][ 40]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.26-22.11.10:887][ 40]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.11.10:887][ 40]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 737 ms)
+[2024.08.26-22.11.10:887][ 40]LogPlayLevel: PIE: World Init took: (0.003005s)
+[2024.08.26-22.11.10:887][ 40]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.08.26-22.11.10:888][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.11.10:888][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.11.10:888][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.11.10:888][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.11.10:888][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.11.10:888][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.26-22.11.10:888][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.11.10:888][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.11.10:888][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.11.10:888][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.11.10:888][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.11.10:891][ 40]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.11.10:929][ 40]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2024.08.26-22.11.10:929][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.11.10:929][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.11.10:929][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.11.10:930][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.08.26-22.11.10:930][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.08.26-22.11.10:932][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.08.26-22.11.10:932][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.08.26-22.11.10:932][ 40]LogInit: FAudioDevice initialized with ID 3.
+[2024.08.26-22.11.10:932][ 40]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2024.08.26-22.11.10:932][ 40]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.26-22.11.10:935][ 40]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.26-22.11.10:939][ 40]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.26-19.11.10
+[2024.08.26-22.11.10:940][ 40]LogWorld: Bringing up level for play took: 0.005451
+[2024.08.26-22.11.10:943][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.08.26-22.11.10:945][ 40]PIE: Server logged in
+[2024.08.26-22.11.10:946][ 40]PIE: Play in editor total start time 0,09 seconds.
+[2024.08.26-22.11.20:142][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.11.20:142][113]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.26-22.11.20:142][113]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.11.20:143][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.11.20:143][113]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.26-22.11.20:151][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.11.20:156][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.11.20:172][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.11.20:173][113]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.26-22.11.20:173][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.26-22.11.20:175][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.26-22.11.20:180][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.11.20:184][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.26-22.11.20:314][114]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.08.26-22.11.31:593][897]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.13.17:375][922]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.15.32:258][316]LogEditorTransaction: Undo Rename Node
+[2024.08.26-22.15.34:973][585]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2024.08.26-22.17.19:260][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.08.26-22.17.19:291][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/F9/QIVFH7H883OV0GP7O18YW8_Auto3
+[2024.08.26-22.17.19:291][774]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/QIVFH7H883OV0GP7O18YW8_Auto3820CA3B44B307955CD2B17BB1786A965.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/F9/QIVFH7H883OV0GP7O18YW8_Auto3.uasset'
+[2024.08.26-22.17.19:310][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/4Z/XKLUPPA2EI7PA47NP1TSAZ_Auto3
+[2024.08.26-22.17.19:310][774]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/XKLUPPA2EI7PA47NP1TSAZ_Auto31A62E7284F46F61E61024287FDEEA6D4.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/4Z/XKLUPPA2EI7PA47NP1TSAZ_Auto3.uasset'
+[2024.08.26-22.17.19:313][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.075
+[2024.08.26-22.17.19:313][774]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2024.08.26-22.17.19:313][774]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemyAI] ([2] browsable assets)...
+[2024.08.26-22.17.19:350][774]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI]
+[2024.08.26-22.17.19:350][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemyAI]
+[2024.08.26-22.17.19:494][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_EnemyAI_Auto3
+[2024.08.26-22.17.19:494][774]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemyAI_Auto3ED9B8E174D82A6C090102A8164D4A18F.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/BP_EnemyAI_Auto3.uasset'
+[2024.08.26-22.17.19:495][774]LogFileHelpers: Auto-saving content packages took 0.182
+[2024.08.26-22.18.56:147][ 65]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.22.24:618][ 93]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.22.48:614][165]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.23.53:337][930]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.08.26-22.23.53:341][930]LogSlate: Took 0.001867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.26-22.23.55:285][153]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.23.55:285][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.24.34:781][913]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.24.47:382][951]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.25.04:214][  1]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.25.28:936][ 75]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.26.19:443][400]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.26.37:506][454]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.27.19:499][329]BlueprintLog: New page: Compile BP_EnemyAI
+[2024.08.26-22.27.19:663][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.08.26-22.27.20:257][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.26-22.27.20:328][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_EnemyAI" FILE="D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset" SILENT=true
+[2024.08.26-22.27.20:336][361]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemyAI
+[2024.08.26-22.27.20:337][361]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemyAI582176894FD882CEB9E615A3538A15D1.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemyAI.uasset'
+[2024.08.26-22.27.20:346][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 465 ms)
+[2024.08.26-22.27.20:347][361]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2024.08.26-22.27.20:347][361]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_EnemyAI.BP_EnemyAI
+[2024.08.26-22.27.22:940][624]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.26-22.27.22:949][624]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.26-22.27.22:949][624]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.26-22.27.22:951][624]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 11 ms)
+[2024.08.26-22.27.22:951][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.26-22.27.22:951][624]PIE: New page: PIE session: TopDownMap (26 ago. 2024 16:27:22)
+[2024.08.26-22.27.22:951][624]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.26-22.27.22:958][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006425s)
+[2024.08.26-22.27.22:958][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.006471s)
+[2024.08.26-22.27.22:973][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.26-22.27.22:979][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.27.22:979][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.27.22:979][624]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.26-22.27.22:980][624]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.26-22.27.22:980][624]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.26-22.27.22:980][624]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.26-22.27.22:980][624]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.26-22.27.22:982][624]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.26-22.27.22:982][624]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 739 ms)
+[2024.08.26-22.27.22:982][624]LogPlayLevel: PIE: World Init took: (0.003610s)
+[2024.08.26-22.27.22:982][624]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.08.26-22.27.22:982][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.26-22.27.22:982][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.26-22.27.22:982][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.26-22.27.22:982][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.26-22.27.22:982][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.26-22.27.22:982][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.26-22.27.22:983][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.26-22.27.22:983][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.26-22.27.22:983][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.26-22.27.22:983][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.26-22.27.22:983][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.26-22.27.22:987][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.26-22.27.23:025][624]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2024.08.26-22.27.23:025][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.26-22.27.23:025][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.26-22.27.23:025][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.26-22.27.23:026][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.08.26-22.27.23:026][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.08.26-22.27.23:028][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.08.26-22.27.23:028][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.08.26-22.27.23:028][624]LogInit: FAudioDevice initialized with ID 4.
+[2024.08.26-22.27.23:028][624]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2024.08.26-22.27.23:028][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.26-22.27.23:031][624]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.26-22.27.23:036][624]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.26-19.27.23
+[2024.08.26-22.27.23:038][624]LogWorld: Bringing up level for play took: 0.005991
+[2024.08.26-22.27.23:040][624]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.08.26-22.27.23:043][624]PIE: Server logged in
+[2024.08.26-22.27.23:044][624]PIE: Play in editor total start time 0,095 seconds.
+[2024.08.26-22.28.03:866][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.28.03:866][461]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.26-22.28.03:866][461]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.26-22.28.03:867][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.28.03:867][461]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.26-22.28.03:875][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.26-22.28.03:882][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.26-22.28.03:899][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.26-22.28.03:899][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.26-22.28.03:899][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.26-22.28.03:901][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.26-22.28.03:906][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.26-22.28.03:911][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.08.26-22.28.04:048][462]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.08.26-22.28.38:897][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.08.26-22.28.38:902][699]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/F9/QIVFH7H883OV0GP7O18YW8_Auto4
+[2024.08.26-22.28.38:902][699]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/QIVFH7H883OV0GP7O18YW8_Auto40D956F9D47A757ECE977CCAE300753AC.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/F9/QIVFH7H883OV0GP7O18YW8_Auto4.uasset'
+[2024.08.26-22.28.38:904][699]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.022
+[2024.08.26-22.28.38:904][699]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2024.08.26-22.30.35:755][388]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.30.51:114][434]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.32.57:168][811]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.35.38:137][294]LogDerivedDataCache: C:/Users/pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1285 files in 2061 folders with total size 75 MiB.
+[2024.08.26-22.35.59:094][357]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.36.38:648][476]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.40.32:884][178]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.26-22.46.38:920][156]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.26-22.46.38:928][156]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.26-22.46.38:939][156]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.26-22.46.38:955][157]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.26-22.46.50:093][301]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemySpawner
+[2024.08.26-22.46.50:102][301]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.26-22.46.52:493][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_EnemySpawner.BP_EnemySpawner
+[2024.08.26-22.46.52:493][533]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.26-22.46.52:493][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.26-22.46.52:636][533]LogViewport: Scene viewport resized to 1167x656, mode Windowed.
+[2024.08.26-22.48.36:927][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.08.26-22.48.36:929][303]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.022
+[2024.08.26-22.48.36:930][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_EnemySpawner] ([2] browsable assets)...
+[2024.08.26-22.48.36:930][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_EnemySpawner]
+[2024.08.26-22.48.36:934][303]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_EnemySpawner_Auto5
+[2024.08.26-22.48.36:934][303]LogSavePackage: Moving 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemySpawner_Auto54CCF4C0A459FBD0CFA426B902732CC5C.tmp' to 'D:/githubfacu/Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/Autosaves/Game/TopDown/Blueprints/BP_EnemySpawner_Auto5.uasset'
+[2024.08.26-22.48.36:935][303]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.08.26-22.51.28:503][326]BlueprintLog: New page: Compile BP_EnemySpawner
+[2024.08.26-22.51.28:506][326]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/BP_EnemySpawner.BP_EnemySpawner: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.08.26-22.51.28:506][326]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/BP_EnemySpawner.BP_EnemySpawner: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.08.26-22.51.28:541][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.08.26-22.51.33:565][902]BlueprintLog: New page: Compile BP_EnemySpawner
+[2024.08.26-22.51.33:592][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
