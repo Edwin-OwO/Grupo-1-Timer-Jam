@@ -1,11 +1,11 @@
-"D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\UnrealEditor\Inc\TimerJam1C\UHT\TimerJam1C.init.gen.cpp"
-/FI"D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\TimerJam1CEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/FI"D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\Definitions.TimerJam1C.h"
-/Yu"D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\TimerJam1CEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/Fp"D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\TimerJam1CEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\TimerJam1C.init.gen.cpp.obj"
-/sourceDependencies "D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\TimerJam1C.init.gen.cpp.dep.json"
-@"D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\TimerJam1C.Shared.rsp"
+"D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\UnrealEditor\Inc\TimerJam1C\UHT\TimerJam1C.init.gen.cpp"
+/FI"D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\TimerJam1CEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/FI"D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\Definitions.TimerJam1C.h"
+/Yu"D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\TimerJam1CEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/Fp"D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\TimerJam1CEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
+/Fo"D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\TimerJam1C.init.gen.cpp.obj"
+/sourceDependencies "D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\TimerJam1C.init.gen.cpp.dep.json"
+@"D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimerJam1C\TimerJam1C.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

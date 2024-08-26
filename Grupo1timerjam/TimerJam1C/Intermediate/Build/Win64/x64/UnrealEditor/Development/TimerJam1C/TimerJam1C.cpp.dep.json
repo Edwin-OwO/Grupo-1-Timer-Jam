@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1c.cpp",
+        "Source": "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1c.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\timerjam1ceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\timerjam1ceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timerjam1c\\definitions.timerjam1c.h",
-            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1c.h"
+            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timerjam1c\\definitions.timerjam1c.h",
+            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1c.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

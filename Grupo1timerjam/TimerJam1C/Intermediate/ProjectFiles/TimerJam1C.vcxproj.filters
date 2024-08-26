@@ -60,5 +60,17 @@
     <ClInclude Include="..\..\Source\TimerJam1C\TimerJam1CPlayerController.h">
       <Filter>Source\TimerJam1C</Filter>
     </ClInclude>
+    <Filter Include="Source\TimerJam1C\Private">
+      <UniqueIdentifier>{8D0C62E4-5D0B-3752-87A8-8218D923ADAC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TimerJam1C\Private\Timer.cpp">
+      <Filter>Source\TimerJam1C\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TimerJam1C\Public">
+      <UniqueIdentifier>{08C7F44E-4F1F-329F-931A-9BF84E13C21C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TimerJam1C\Public\Timer.h">
+      <Filter>Source\TimerJam1C\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
