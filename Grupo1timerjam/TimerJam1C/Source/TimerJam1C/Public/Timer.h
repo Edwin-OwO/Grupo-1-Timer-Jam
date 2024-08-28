@@ -26,7 +26,7 @@ public:
 	void CountDown();
 
 	UPROPERTY(BlueprintReadOnly)
-	int Minutes = 2;
+	int Minutes = 5;
 
 	UPROPERTY(BlueprintReadOnly)
 	int Seconds = 0;
