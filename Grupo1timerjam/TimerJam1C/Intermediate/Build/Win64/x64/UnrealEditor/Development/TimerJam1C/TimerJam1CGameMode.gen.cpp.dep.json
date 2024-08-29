@@ -1,17 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cgamemode.gen.cpp",
+        "Source": "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cgamemode.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\timerjam1ceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "PCH": "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\timerjam1ceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timerjam1c\\definitions.timerjam1c.h",
-            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1cgamemode.h",
-            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
-            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
-            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
-            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
-            "d:\\githubfacu\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cgamemode.generated.h"
+            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timerjam1c\\definitions.timerjam1c.h",
+            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\source\\timerjam1c\\timerjam1cgamemode.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\grupo-1-timer-jam\\grupo1timerjam\\timerjam1c\\intermediate\\build\\win64\\unrealeditor\\inc\\timerjam1c\\uht\\timerjam1cgamemode.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

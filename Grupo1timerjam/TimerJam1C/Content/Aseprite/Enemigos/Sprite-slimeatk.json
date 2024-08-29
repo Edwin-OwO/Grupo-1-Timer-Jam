@@ -1,0 +1,24 @@
+{ "frames": {
+   "Sprite-slimeatk.png": {
+    "frame": { "x": 0, "y": 0, "w": 270, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 270, "h": 54 },
+    "sourceSize": { "w": 270, "h": 54 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.2-973d0e3d-SDL",
+  "image": "C:\\Users\\Usuario\\Desktop\\aplicaciones trabajo\\arte\\artes-trabajo\\Pixel\\juego time\\Sprite-slimeatk-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 270, "h": 54 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}

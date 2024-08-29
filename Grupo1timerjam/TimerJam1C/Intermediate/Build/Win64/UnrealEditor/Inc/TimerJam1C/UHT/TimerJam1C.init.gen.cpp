@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeTimerJam1C_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x22FE32AE,
+				0xEC70BEAF,
 				0x92BE67B9,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeTimerJam1C_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_TimerJam1C.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TimerJam1C(Z_Construct_UPackage__Script_TimerJam1C, TEXT("/Script/TimerJam1C"), Z_Registration_Info_UPackage__Script_TimerJam1C, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x22FE32AE, 0x92BE67B9));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TimerJam1C(Z_Construct_UPackage__Script_TimerJam1C, TEXT("/Script/TimerJam1C"), Z_Registration_Info_UPackage__Script_TimerJam1C, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEC70BEAF, 0x92BE67B9));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

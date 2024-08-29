@@ -104,15 +104,15 @@ void EmptyLinkFunctionForGeneratedCodeTimer() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UTimer);
 	UTimer::~UTimer() {}
-	struct Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics
+	struct Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UTimer, UTimer::StaticClass, TEXT("UTimer"), &Z_Registration_Info_UClass_UTimer, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UTimer), 2945084546U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_Public_Timer_h_1395068108(TEXT("/Script/TimerJam1C"),
-		Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_Public_Timer_h_1395068108(TEXT("/Script/TimerJam1C"),
+		Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Grupo_1_Timer_Jam_Grupo1timerjam_TimerJam1C_Source_TimerJam1C_Public_Timer_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

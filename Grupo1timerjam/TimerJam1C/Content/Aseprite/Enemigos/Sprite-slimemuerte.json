@@ -1,0 +1,84 @@
+{ "frames": {
+   "Sprite-slimemuerte 0.gif": {
+    "frame": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   },
+   "Sprite-slimemuerte 1.gif": {
+    "frame": { "x": 54, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   },
+   "Sprite-slimemuerte 2.gif": {
+    "frame": { "x": 108, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   },
+   "Sprite-slimemuerte 3.gif": {
+    "frame": { "x": 162, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   },
+   "Sprite-slimemuerte 4.gif": {
+    "frame": { "x": 216, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   },
+   "Sprite-slimemuerte 5.gif": {
+    "frame": { "x": 270, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   },
+   "Sprite-slimemuerte 6.gif": {
+    "frame": { "x": 324, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   },
+   "Sprite-slimemuerte 7.gif": {
+    "frame": { "x": 378, "y": 0, "w": 54, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 54, "h": 54 },
+    "sourceSize": { "w": 54, "h": 54 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.2-973d0e3d-SDL",
+  "image": "C:\\Users\\Usuario\\Desktop\\aplicaciones trabajo\\arte\\artes-trabajo\\Pixel\\juego time\\Sprite-slimemuerte.png",
+  "format": "RGBA8888",
+  "size": { "w": 432, "h": 54 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 109, "blendMode": "normal" },
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 4", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2 Copy", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}

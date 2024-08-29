@@ -7990,68 +7990,68 @@
     },
     "EpicGames.Box/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Box\\EpicGames.Box.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Box\\EpicGames.Box.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Box/EpicGames.Box.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Box/EpicGames.Box.csproj"
     },
     "EpicGames.Build/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Build/EpicGames.Build.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Build/EpicGames.Build.csproj"
     },
     "EpicGames.Core/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Core\\EpicGames.Core.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Core\\EpicGames.Core.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Core/EpicGames.Core.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Core/EpicGames.Core.csproj"
     },
     "EpicGames.Horde/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Horde\\EpicGames.Horde.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Horde\\EpicGames.Horde.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Horde/EpicGames.Horde.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Horde/EpicGames.Horde.csproj"
     },
     "EpicGames.IoHash/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.IoHash\\EpicGames.IoHash.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.IoHash\\EpicGames.IoHash.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.IoHash/EpicGames.IoHash.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.IoHash/EpicGames.IoHash.csproj"
     },
     "EpicGames.MsBuild/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.MsBuild\\EpicGames.MsBuild.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.MsBuild\\EpicGames.MsBuild.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.MsBuild/EpicGames.MsBuild.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.MsBuild/EpicGames.MsBuild.csproj"
     },
     "EpicGames.OIDC/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.OIDC\\EpicGames.OIDC.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.OIDC/EpicGames.OIDC.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.OIDC/EpicGames.OIDC.csproj"
     },
     "EpicGames.Serialization/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Serialization\\EpicGames.Serialization.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Serialization\\EpicGames.Serialization.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Serialization/EpicGames.Serialization.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.Serialization/EpicGames.Serialization.csproj"
     },
     "EpicGames.UHT/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.UHT\\EpicGames.UHT.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.UHT\\EpicGames.UHT.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.UHT/EpicGames.UHT.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/Shared/EpicGames.UHT/EpicGames.UHT.csproj"
     },
     "MarketplaceRules/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Intermediate/Build/BuildRulesProjects/MarketplaceRules/MarketplaceRules.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Intermediate/Build/BuildRulesProjects/MarketplaceRules/MarketplaceRules.csproj"
     },
     "UE5ProgramRules/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Intermediate/Build/BuildRulesProjects/UE5ProgramRules/UE5ProgramRules.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Intermediate/Build/BuildRulesProjects/UE5ProgramRules/UE5ProgramRules.csproj"
     },
     "UE5Rules/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Intermediate/Build/BuildRulesProjects/UE5Rules/UE5Rules.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Intermediate/Build/BuildRulesProjects/UE5Rules/UE5Rules.csproj"
     },
     "UnrealBuildTool/1.0.0": {
       "type": "project",
-      "path": "E:\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
-      "msbuildProject": "E:\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
+      "path": "../../../../../../../UE_5.3/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj",
+      "msbuildProject": "../../../../../../../UE_5.3/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8064,23 +8064,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\visualstudiocomponentes\\NuGetPackages": {}
+    "C:\\Users\\valentino\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\githubfacu\\Grupo-1-Timer-Jam\\Grupo1timerjam\\TimerJam1C\\Intermediate\\Build\\BuildRulesProjects\\TimerJam1CModuleRules\\TimerJam1CModuleRules.csproj",
+      "projectUniqueName": "D:\\Grupo-1-Timer-Jam\\Grupo1timerjam\\TimerJam1C\\Intermediate\\Build\\BuildRulesProjects\\TimerJam1CModuleRules\\TimerJam1CModuleRules.csproj",
       "projectName": "TimerJam1CModuleRules",
-      "projectPath": "D:\\githubfacu\\Grupo-1-Timer-Jam\\Grupo1timerjam\\TimerJam1C\\Intermediate\\Build\\BuildRulesProjects\\TimerJam1CModuleRules\\TimerJam1CModuleRules.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\githubfacu\\Grupo-1-Timer-Jam\\Grupo1timerjam\\TimerJam1C\\Intermediate\\Build\\BuildRulesProjects\\TimerJam1CModuleRules\\obj\\",
+      "projectPath": "D:\\Grupo-1-Timer-Jam\\Grupo1timerjam\\TimerJam1C\\Intermediate\\Build\\BuildRulesProjects\\TimerJam1CModuleRules\\TimerJam1CModuleRules.csproj",
+      "packagesPath": "C:\\Users\\valentino\\.nuget\\packages\\",
+      "outputPath": "D:\\Grupo-1-Timer-Jam\\Grupo1timerjam\\TimerJam1C\\Intermediate\\Build\\BuildRulesProjects\\TimerJam1CModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\visualstudiocomponentes\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\valentino\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8095,20 +8095,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
-              "projectPath": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj"
+            "D:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
+              "projectPath": "D:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj"
             },
-            "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
-              "projectPath": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
+            "D:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
+              "projectPath": "D:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
             },
-            "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
-              "projectPath": "E:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
+            "D:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
+              "projectPath": "D:\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
             },
-            "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
-              "projectPath": "E:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
+            "D:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
+              "projectPath": "D:\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
             },
-            "E:\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
-              "projectPath": "E:\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
+            "D:\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
+              "projectPath": "D:\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
             }
           }
         }
@@ -8143,7 +8143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
