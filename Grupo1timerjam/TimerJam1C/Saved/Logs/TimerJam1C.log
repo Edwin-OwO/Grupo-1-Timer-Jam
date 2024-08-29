@@ -8181,3 +8181,687 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.29-02.27.11:611][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 7.51 sec)
 [2024.08.29-02.27.11:612][753]AssetCheck: New page: Asset Save: BP_EnemySpawner
 [2024.08.29-02.27.11:612][753]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_EnemySpawner.BP_EnemySpawner
+[2024.08.29-02.27.55:608][143]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.08.29-02.28.52:811][403]BlueprintLog: New page: Compile BP_EnemySpawner
+[2024.08.29-02.28.52:851][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.08.29-02.28.53:309][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.29-02.28.53:357][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_EnemySpawner" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemySpawner.uasset" SILENT=true
+[2024.08.29-02.28.53:367][437]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_EnemySpawner
+[2024.08.29-02.28.53:368][437]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_EnemySpawner514A9FB249EA1E8C96C1E193AD065311.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_EnemySpawner.uasset'
+[2024.08.29-02.28.53:375][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 7.57 sec)
+[2024.08.29-02.28.53:377][437]AssetCheck: New page: Asset Save: BP_EnemySpawner
+[2024.08.29-02.28.53:377][437]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_EnemySpawner.BP_EnemySpawner
+[2024.08.29-02.28.54:266][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.29-02.28.54:272][531]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.29-02.28.54:272][531]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.29-02.28.54:273][531]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 240 ms)
+[2024.08.29-02.28.54:274][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.29-02.28.54:274][531]PIE: New page: PIE session: TopDownMap (28 ago. 2024 20:28:54)
+[2024.08.29-02.28.54:274][531]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.28.54:278][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003561s)
+[2024.08.29-02.28.54:278][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003684s)
+[2024.08.29-02.28.54:295][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.08.29-02.28.54:298][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.29-02.28.54:298][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.29-02.28.54:299][531]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.29-02.28.54:299][531]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.29-02.28.54:299][531]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.29-02.28.54:299][531]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.29-02.28.54:299][531]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.29-02.28.54:300][531]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.29-02.28.54:300][531]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 891 ms)
+[2024.08.29-02.28.54:300][531]LogPlayLevel: PIE: World Init took: (0.002656s)
+[2024.08.29-02.28.54:300][531]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2024.08.29-02.28.54:301][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.29-02.28.54:301][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.29-02.28.54:301][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.29-02.28.54:301][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.29-02.28.54:301][531]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.29-02.28.54:301][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.29-02.28.54:301][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.29-02.28.54:301][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.29-02.28.54:301][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.29-02.28.54:301][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.29-02.28.54:301][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.29-02.28.54:303][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.29-02.28.54:319][531]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.29-02.28.54:320][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.29-02.28.54:320][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.29-02.28.54:320][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.29-02.28.54:321][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2024.08.29-02.28.54:321][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=77
+[2024.08.29-02.28.54:323][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2024.08.29-02.28.54:323][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2024.08.29-02.28.54:323][531]LogInit: FAudioDevice initialized with ID 77.
+[2024.08.29-02.28.54:323][531]LogAudio: Display: Audio Device (ID: 77) registered with world 'TopDownMap'.
+[2024.08.29-02.28.54:323][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2024.08.29-02.28.54:326][531]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.29-02.28.54:328][531]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.28-23.28.54
+[2024.08.29-02.28.54:328][531]LogWorld: Bringing up level for play took: 0.001518
+[2024.08.29-02.28.54:330][531]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.08.29-02.28.54:332][531]PIE: Server logged in
+[2024.08.29-02.28.54:333][531]PIE: Play in editor total start time 0,062 seconds.
+[2024.08.29-02.28.59:268][118]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.04:269][718]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.09:106][298]LogBlueprintUserMessages: [BP_PlayerGnome_C_0] 1
+[2024.08.29-02.29.09:291][318]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=880.849 Y=1644.515 Z=5.434] for [BP_Enemy1_C]
+[2024.08.29-02.29.14:270][915]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.14:535][947]LogCharacterMovement: BP_PlayerGnome_C_0 is stuck and failed to move! Velocity: X=0.63 Y=-600.00 Z=0.00 Location: X=1418.19 Y=2095.88 Z=36.19 Normal: X=0.15 Y=0.99 Z=-0.00 PenetrationDepth:1.826 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.19:273][515]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.19:472][539]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=83.95 Y=-252.61 Z=0.00 Location: X=1305.17 Y=1336.65 Z=36.39 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:1.871 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.24:276][115]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.24:277][115]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.29:277][710]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.29:278][710]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.34:276][309]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.34:277][309]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.34:433][328]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=9.60 Y=134.66 Z=0.00 Location: X=492.30 Y=2495.68 Z=46.26 Normal: X=0.41 Y=0.91 Z=0.11 PenetrationDepth:1.458 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.35:520][458]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=32.05 Y=202.61 Z=0.00 Location: X=510.77 Y=2661.87 Z=35.55 Normal: X=0.49 Y=0.87 Z=-0.00 PenetrationDepth:2.522 Actor:BP_Enemy1_C_4 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.39:077][884]LogCharacterMovement: BP_Enemy3_C_3 is stuck and failed to move! Velocity: X=-28.82 Y=4.49 Z=0.00 Location: X=997.80 Y=2285.89 Z=77.97 Normal: X=0.29 Y=-0.43 Z=0.86 PenetrationDepth:0.773 Actor:BP_Enemy1_C_4 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.39:272][907]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.39:273][907]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.41:546][174]LogCharacterMovement: BP_Enemy3_C_3 is stuck and failed to move! Velocity: X=-156.82 Y=160.69 Z=0.00 Location: X=657.97 Y=2240.00 Z=46.14 Normal: X=0.00 Y=0.99 Z=0.11 PenetrationDepth:1.444 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (2 other events since notify)
+[2024.08.29-02.29.42:311][265]LogCharacterMovement: BP_Enemy3_C_1 is stuck and failed to move! Velocity: X=-36.75 Y=231.68 Z=0.00 Location: X=402.64 Y=2429.68 Z=47.78 Normal: X=-0.84 Y=0.52 Z=0.15 PenetrationDepth:0.766 Actor:BP_Enemy1_C_4 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.42:387][274]LogCharacterMovement: BP_Enemy3_C_2 is stuck and failed to move! Velocity: X=-2.36 Y=16.90 Z=0.00 Location: X=412.71 Y=2516.86 Z=46.09 Normal: X=-0.99 Y=0.00 Z=0.11 PenetrationDepth:0.220 Actor:BP_Enemy1_C_12 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.42:496][287]LogCharacterMovement: BP_Enemy3_C_5 is stuck and failed to move! Velocity: X=-13.12 Y=35.34 Z=0.00 Location: X=542.55 Y=2384.07 Z=45.83 Normal: X=-0.04 Y=0.99 Z=0.11 PenetrationDepth:3.220 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.43:466][403]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.22 Y=252.53 Z=0.00 Location: X=462.69 Y=2424.67 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.831 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.44:273][492]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.44:274][492]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.44:338][500]LogCharacterMovement: BP_Enemy3_C_1 is stuck and failed to move! Velocity: X=1.92 Y=16.97 Z=0.00 Location: X=387.57 Y=2443.56 Z=45.81 Normal: X=0.00 Y=0.99 Z=0.10 PenetrationDepth:0.744 Actor:BP_Enemy1_C_11 Component:Hit BoneName:None (91 other events since notify)
+[2024.08.29-02.29.44:472][516]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.24 Y=252.52 Z=0.00 Location: X=462.69 Y=2424.67 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.836 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (112 other events since notify)
+[2024.08.29-02.29.45:341][620]LogCharacterMovement: BP_Enemy3_C_1 is stuck and failed to move! Velocity: X=27.93 Y=264.73 Z=0.00 Location: X=387.56 Y=2443.56 Z=45.81 Normal: X=0.93 Y=0.34 Z=0.13 PenetrationDepth:9.160 Actor:BP_Enemy1_C_11 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.29.45:476][636]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.24 Y=252.52 Z=0.00 Location: X=462.69 Y=2424.67 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.836 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.45:909][688]LogCharacterMovement: BP_Enemy3_C_2 is stuck and failed to move! Velocity: X=3.57 Y=33.95 Z=0.00 Location: X=396.64 Y=2528.65 Z=65.66 Normal: X=0.82 Y=0.05 Z=0.57 PenetrationDepth:1.065 Actor:BP_Enemy1_C_11 Component:Hit BoneName:None (90 other events since notify)
+[2024.08.29-02.29.46:478][756]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.24 Y=252.52 Z=0.00 Location: X=462.69 Y=2424.67 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.836 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.46:763][789]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-34.31 Y=1.75 Z=0.00 Location: X=543.72 Y=2593.19 Z=46.09 Normal: X=-0.99 Y=-0.02 Z=0.12 PenetrationDepth:2.431 Actor:BP_Enemy1_C_13 Component:Hit BoneName:None (5 other events since notify)
+[2024.08.29-02.29.47:483][875]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.24 Y=252.52 Z=0.00 Location: X=462.69 Y=2424.67 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.836 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.29.48:484][995]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.24 Y=252.52 Z=0.00 Location: X=462.69 Y=2424.67 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.836 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.49:270][ 89]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.49:271][ 89]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.49:487][115]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.36 Y=252.48 Z=0.00 Location: X=462.69 Y=2424.67 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.836 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.50:491][234]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-84.61 Y=252.40 Z=0.00 Location: X=462.76 Y=2424.71 Z=35.74 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.836 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (116 other events since notify)
+[2024.08.29-02.29.51:369][339]LogCharacterMovement: BP_Enemy3_C_11 is stuck and failed to move! Velocity: X=-13.95 Y=11.57 Z=0.00 Location: X=688.26 Y=2395.35 Z=46.26 Normal: X=-0.99 Y=0.00 Z=0.12 PenetrationDepth:0.017 Actor:BP_Enemy1_C_16 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.51:564][362]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-56.19 Y=189.14 Z=0.00 Location: X=461.01 Y=2436.43 Z=35.96 Normal: X=-0.38 Y=0.92 Z=-0.00 PenetrationDepth:1.079 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (110 other events since notify)
+[2024.08.29-02.29.52:074][423]LogCharacterMovement: BP_Enemy3_C_9 is stuck and failed to move! Velocity: X=-16.06 Y=40.05 Z=0.00 Location: X=586.80 Y=2417.10 Z=45.43 Normal: X=-0.77 Y=-0.62 Z=0.11 PenetrationDepth:1.971 Actor:BP_Enemy1_C_16 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.52:568][482]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.69 Y=250.64 Z=0.00 Location: X=461.92 Y=2438.19 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.199 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (108 other events since notify)
+[2024.08.29-02.29.53:078][543]LogCharacterMovement: BP_Enemy3_C_9 is stuck and failed to move! Velocity: X=-188.11 Y=188.36 Z=0.00 Location: X=586.81 Y=2417.12 Z=45.43 Normal: X=-0.98 Y=0.17 Z=0.11 PenetrationDepth:5.542 Actor:BP_Enemy1_C_15 Component:Hit BoneName:None (82 other events since notify)
+[2024.08.29-02.29.53:567][601]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.71 Y=250.63 Z=0.00 Location: X=461.92 Y=2438.19 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.199 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.29.53:912][642]LogCharacterMovement: BP_Enemy1_C_16 is stuck and failed to move! Velocity: X=-11.14 Y=-12.93 Z=0.00 Location: X=607.62 Y=2491.60 Z=36.00 Normal: X=-0.66 Y=0.75 Z=-0.00 PenetrationDepth:0.184 Actor:BP_Enemy1_C_15 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.29.54:147][670]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-18.79 Y=2.18 Z=0.00 Location: X=505.24 Y=2592.63 Z=74.00 Normal: X=-0.12 Y=0.65 Z=0.75 PenetrationDepth:0.311 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (81 other events since notify)
+[2024.08.29-02.29.54:279][685]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.54:279][685]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.54:573][719]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (86 other events since notify)
+[2024.08.29-02.29.55:202][794]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-17.02 Y=1.28 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (48 other events since notify)
+[2024.08.29-02.29.55:579][839]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.56:206][913]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-265.45 Y=20.00 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.29.56:585][958]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.29.57:206][ 32]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-265.45 Y=20.00 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.29.57:590][ 78]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.58:212][152]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-265.45 Y=20.00 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.58:596][198]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.59:217][272]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-265.45 Y=20.00 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.29.59:271][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=511.739 Y=2245.273 Z=5.434] for [BP_Enemy1_C]
+[2024.08.29-02.29.59:271][278]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.29.59:601][317]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.30.00:222][390]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-265.45 Y=20.00 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.30.00:603][435]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.30.00:623][437]LogCharacterMovement: BP_Enemy3_C_14 is stuck and failed to move! Velocity: X=-14.28 Y=16.13 Z=0.00 Location: X=651.60 Y=2357.86 Z=46.26 Normal: X=-0.99 Y=0.00 Z=0.11 PenetrationDepth:0.113 Actor:BP_Enemy1_C_17 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.30.01:223][506]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-265.45 Y=20.00 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (115 other events since notify)
+[2024.08.29-02.30.01:605][551]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-89.87 Y=250.57 Z=0.00 Location: X=461.94 Y=2438.46 Z=35.96 Normal: X=-0.34 Y=0.94 Z=-0.00 PenetrationDepth:1.216 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (115 other events since notify)
+[2024.08.29-02.30.02:224][622]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-265.45 Y=20.00 Z=0.00 Location: X=505.20 Y=2592.64 Z=74.00 Normal: X=-0.11 Y=0.63 Z=0.77 PenetrationDepth:0.738 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (115 other events since notify)
+[2024.08.29-02.30.02:544][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.30.02:544][655]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.30.02:544][655]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.29-02.30.02:545][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.30.02:547][655]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.29-02.30.02:551][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.29-02.30.02:571][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.30.02:595][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.29-02.30.02:595][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2024.08.29-02.30.02:595][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.08.29-02.30.02:597][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.08.29-02.30.02:602][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.30.02:631][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.08.29-02.30.02:664][656]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.08.29-02.30.33:255][168]LogViewport: Scene viewport resized to 1093x723, mode Windowed.
+[2024.08.29-02.30.33:351][170]LogViewport: Scene viewport resized to 493x263, mode Windowed.
+[2024.08.29-02.30.33:387][171]LogViewport: Scene viewport resized to 448x229, mode Windowed.
+[2024.08.29-02.30.33:672][196]LogViewport: Scene viewport resized to 1096x704, mode Windowed.
+[2024.08.29-02.30.57:768][972]BlueprintLog: New page: Compile BP_Enemy1
+[2024.08.29-02.30.57:832][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.08.29-02.30.58:911][ 77]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.29-02.30.58:918][ 77]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.29-02.30.58:918][ 77]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.29-02.30.58:919][ 77]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 241 ms)
+[2024.08.29-02.30.58:919][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.29-02.30.58:919][ 77]PIE: New page: PIE session: TopDownMap (28 ago. 2024 20:30:58)
+[2024.08.29-02.30.58:920][ 77]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.30.58:923][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003628s)
+[2024.08.29-02.30.58:923][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003753s)
+[2024.08.29-02.30.58:940][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.08.29-02.30.58:943][ 77]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.29-02.30.58:943][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.29-02.30.58:943][ 77]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.29-02.30.58:944][ 77]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.29-02.30.58:944][ 77]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.29-02.30.58:944][ 77]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.29-02.30.58:944][ 77]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.29-02.30.58:945][ 77]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.29-02.30.58:945][ 77]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 892 ms)
+[2024.08.29-02.30.58:945][ 77]LogPlayLevel: PIE: World Init took: (0.002696s)
+[2024.08.29-02.30.58:945][ 77]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2024.08.29-02.30.58:945][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.29-02.30.58:945][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.29-02.30.58:945][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.29-02.30.58:946][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.29-02.30.58:946][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.29-02.30.58:946][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.29-02.30.58:946][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.29-02.30.58:946][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.29-02.30.58:946][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.29-02.30.58:947][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.29-02.30.58:947][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.29-02.30.58:949][ 77]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.29-02.30.58:966][ 77]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.29-02.30.58:966][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.29-02.30.58:966][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.29-02.30.58:966][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.29-02.30.58:967][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2024.08.29-02.30.58:967][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=78
+[2024.08.29-02.30.58:969][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2024.08.29-02.30.58:969][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2024.08.29-02.30.58:969][ 77]LogInit: FAudioDevice initialized with ID 78.
+[2024.08.29-02.30.58:969][ 77]LogAudio: Display: Audio Device (ID: 78) registered with world 'TopDownMap'.
+[2024.08.29-02.30.58:969][ 77]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2024.08.29-02.30.58:972][ 77]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.29-02.30.58:974][ 77]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.28-23.30.58
+[2024.08.29-02.30.58:974][ 77]LogWorld: Bringing up level for play took: 0.001614
+[2024.08.29-02.30.58:977][ 77]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2024.08.29-02.30.58:979][ 77]PIE: Server logged in
+[2024.08.29-02.30.58:980][ 77]PIE: Play in editor total start time 0,062 seconds.
+[2024.08.29-02.31.03:917][664]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.31.08:921][264]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.31.13:921][864]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.31.14:894][981]LogBlueprintUserMessages: [BP_PlayerGnome_C_0] 1
+[2024.08.29-02.31.18:921][459]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.31.20:924][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.31.20:924][696]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.31.20:924][696]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.29-02.31.20:924][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.31.20:925][696]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.29-02.31.20:928][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.29-02.31.20:934][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.31.20:954][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.29-02.31.20:954][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2024.08.29-02.31.20:955][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2024.08.29-02.31.20:957][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2024.08.29-02.31.20:961][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.31.20:966][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.08.29-02.31.21:005][698]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2024.08.29-02.31.24:801][126]Cmd: TRANSACTION UNDO
+[2024.08.29-02.31.24:801][126]LogEditorTransaction: Undo Edit Source Flipbook
+[2024.08.29-02.31.36:737][418]BlueprintLog: New page: Compile BP_Enemy3
+[2024.08.29-02.31.36:793][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.08.29-02.31.37:999][539]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.29-02.31.38:006][539]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.29-02.31.38:006][539]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.29-02.31.38:007][539]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 243 ms)
+[2024.08.29-02.31.38:007][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.29-02.31.38:007][539]PIE: New page: PIE session: TopDownMap (28 ago. 2024 20:31:38)
+[2024.08.29-02.31.38:007][539]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.31.38:011][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003620s)
+[2024.08.29-02.31.38:011][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003742s)
+[2024.08.29-02.31.38:030][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.08.29-02.31.38:036][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.29-02.31.38:036][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.29-02.31.38:037][539]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.29-02.31.38:037][539]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.29-02.31.38:037][539]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.29-02.31.38:037][539]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.29-02.31.38:037][539]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.29-02.31.38:038][539]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.29-02.31.38:038][539]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 893 ms)
+[2024.08.29-02.31.38:039][539]LogPlayLevel: PIE: World Init took: (0.002575s)
+[2024.08.29-02.31.38:039][539]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2024.08.29-02.31.38:039][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.29-02.31.38:039][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.29-02.31.38:039][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.29-02.31.38:039][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.29-02.31.38:039][539]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.29-02.31.38:039][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.29-02.31.38:039][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.29-02.31.38:039][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.29-02.31.38:039][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.29-02.31.38:039][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.29-02.31.38:039][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.29-02.31.38:042][539]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.29-02.31.38:059][539]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.29-02.31.38:060][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.29-02.31.38:060][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.29-02.31.38:060][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.29-02.31.38:060][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2024.08.29-02.31.38:060][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=79
+[2024.08.29-02.31.38:063][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2024.08.29-02.31.38:063][539]LogInit: FAudioDevice initialized with ID 79.
+[2024.08.29-02.31.38:063][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2024.08.29-02.31.38:063][539]LogAudio: Display: Audio Device (ID: 79) registered with world 'TopDownMap'.
+[2024.08.29-02.31.38:063][539]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2024.08.29-02.31.38:065][539]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.29-02.31.38:067][539]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.28-23.31.38
+[2024.08.29-02.31.38:067][539]LogWorld: Bringing up level for play took: 0.001561
+[2024.08.29-02.31.38:070][539]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2024.08.29-02.31.38:072][539]PIE: Server logged in
+[2024.08.29-02.31.38:073][539]PIE: Play in editor total start time 0,068 seconds.
+[2024.08.29-02.31.43:004][124]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.31.48:001][722]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.31.53:004][319]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.31.53:203][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.31.53:204][339]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.31.53:204][339]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.29-02.31.53:204][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.31.53:205][339]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.29-02.31.53:208][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.29-02.31.53:214][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.31.53:233][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.29-02.31.53:233][339]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2024.08.29-02.31.53:233][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2024.08.29-02.31.53:235][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2024.08.29-02.31.53:240][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.31.53:244][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.29-02.31.53:301][340]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2024.08.29-02.32.13:141][603]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.29-02.32.13:148][603]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.29-02.32.13:148][603]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.29-02.32.13:150][603]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 244 ms)
+[2024.08.29-02.32.13:150][603]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.29-02.32.13:153][603]LogPlayLevel: [PlayLevel] Compiling BP_Enemy1 before play...
+[2024.08.29-02.32.13:226][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.08.29-02.32.13:230][603]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2024.08.29-02.32.13:230][603]PIE: New page: PIE session: TopDownMap (28 ago. 2024 20:32:13)
+[2024.08.29-02.32.13:230][603]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.32.13:234][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003907s)
+[2024.08.29-02.32.13:234][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004006s)
+[2024.08.29-02.32.13:251][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.08.29-02.32.13:253][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.29-02.32.13:254][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.29-02.32.13:254][603]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.29-02.32.13:255][603]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.29-02.32.13:255][603]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.29-02.32.13:255][603]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.29-02.32.13:255][603]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.29-02.32.13:257][603]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.29-02.32.13:257][603]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 895 ms)
+[2024.08.29-02.32.13:257][603]LogPlayLevel: PIE: World Init took: (0.003438s)
+[2024.08.29-02.32.13:257][603]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2024.08.29-02.32.13:257][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.29-02.32.13:257][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.29-02.32.13:257][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.29-02.32.13:257][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.29-02.32.13:257][603]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.29-02.32.13:257][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.29-02.32.13:257][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.29-02.32.13:257][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.29-02.32.13:258][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.29-02.32.13:258][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.29-02.32.13:258][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.29-02.32.13:261][603]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.29-02.32.13:278][603]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.29-02.32.13:278][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.29-02.32.13:278][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.29-02.32.13:278][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.29-02.32.13:279][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2024.08.29-02.32.13:279][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=80
+[2024.08.29-02.32.13:282][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2024.08.29-02.32.13:283][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2024.08.29-02.32.13:283][603]LogInit: FAudioDevice initialized with ID 80.
+[2024.08.29-02.32.13:283][603]LogAudio: Display: Audio Device (ID: 80) registered with world 'TopDownMap'.
+[2024.08.29-02.32.13:283][603]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2024.08.29-02.32.13:286][603]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.29-02.32.13:288][603]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.28-23.32.13
+[2024.08.29-02.32.13:288][603]LogWorld: Bringing up level for play took: 0.001866
+[2024.08.29-02.32.13:291][603]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2024.08.29-02.32.13:293][603]PIE: Server logged in
+[2024.08.29-02.32.13:294][603]PIE: Play in editor total start time 0,146 seconds.
+[2024.08.29-02.32.18:144][178]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.23:148][778]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.28:150][378]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.33:146][977]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.38:150][573]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.43:146][171]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.43:147][171]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.45:282][427]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=78.32 Y=169.98 Z=0.00 Location: X=581.56 Y=1955.90 Z=36.04 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.048 Actor:BP_Enemy1_C_0 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.32.45:902][501]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=153.48 Y=-183.86 Z=0.00 Location: X=651.82 Y=2037.17 Z=36.21 Normal: X=-0.60 Y=-0.80 Z=0.00 PenetrationDepth:0.180 Actor:BP_Enemy1_C_4 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.32.48:155][770]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.48:156][770]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.51:467][167]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=221.87 Y=-88.59 Z=0.00 Location: X=839.60 Y=962.52 Z=36.21 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:0.082 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (6 other events since notify)
+[2024.08.29-02.32.53:147][368]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.53:148][368]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.55:948][697]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=2.83 Y=212.55 Z=0.00 Location: X=1029.29 Y=2011.53 Z=35.50 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.076 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.32.55:956][698]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=82.06 Y=253.24 Z=0.00 Location: X=1049.81 Y=1946.61 Z=36.01 Normal: X=0.19 Y=0.98 Z=-0.00 PenetrationDepth:2.153 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (16 other events since notify)
+[2024.08.29-02.32.56:647][780]LogCharacterMovement: BP_Enemy3_C_0 is stuck and failed to move! Velocity: X=265.34 Y=21.42 Z=0.00 Location: X=1020.93 Y=2159.46 Z=56.99 Normal: X=-0.57 Y=0.73 Z=0.38 PenetrationDepth:2.837 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.32.56:697][786]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=-52.54 Y=224.46 Z=0.00 Location: X=1039.94 Y=2044.81 Z=36.10 Normal: X=-0.44 Y=0.90 Z=-0.00 PenetrationDepth:0.909 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (85 other events since notify)
+[2024.08.29-02.32.57:199][846]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=-9.49 Y=14.19 Z=0.00 Location: X=1057.34 Y=2024.52 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.186 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.32.57:701][906]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=-167.78 Y=206.67 Z=0.00 Location: X=1029.10 Y=2087.57 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.957 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (86 other events since notify)
+[2024.08.29-02.32.58:147][959]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.58:148][959]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.32.58:206][966]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=-148.01 Y=221.26 Z=0.00 Location: X=1057.34 Y=2024.52 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.963 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.32.58:702][ 25]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=-167.78 Y=206.67 Z=0.00 Location: X=1029.10 Y=2087.57 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.957 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.32.59:209][ 85]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=-148.01 Y=221.26 Z=0.00 Location: X=1057.34 Y=2024.52 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.963 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.32.59:301][ 96]LogCharacterMovement: BP_Enemy3_C_6 is stuck and failed to move! Velocity: X=162.99 Y=210.47 Z=0.00 Location: X=1025.00 Y=2848.56 Z=46.68 Normal: X=0.00 Y=0.99 Z=0.13 PenetrationDepth:1.773 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.32.59:703][144]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=-167.78 Y=206.67 Z=0.00 Location: X=1029.10 Y=2087.57 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.957 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.32.59:962][175]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=203.73 Y=-1.18 Z=0.00 Location: X=1007.76 Y=2171.75 Z=35.98 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.524 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (8 other events since notify)
+[2024.08.29-02.33.00:217][205]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=144.11 Y=223.82 Z=0.00 Location: X=1068.03 Y=2045.76 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.956 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (97 other events since notify)
+[2024.08.29-02.33.00:452][233]LogCharacterMovement: BP_Enemy3_C_6 is stuck and failed to move! Velocity: X=266.08 Y=-7.91 Z=0.00 Location: X=1227.37 Y=2961.15 Z=46.34 Normal: X=0.00 Y=0.99 Z=0.12 PenetrationDepth:0.072 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (3 other events since notify)
+[2024.08.29-02.33.00:553][245]LogCharacterMovement: BP_Enemy3_C_7 is stuck and failed to move! Velocity: X=45.00 Y=262.37 Z=0.00 Location: X=1337.92 Y=2861.38 Z=52.06 Normal: X=0.94 Y=-0.20 Z=0.29 PenetrationDepth:6.476 Actor:BP_Enemy1_C_10 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.00:554][245]LogCharacterMovement: BP_Enemy1_C_5 is stuck and failed to move! Velocity: X=165.92 Y=208.16 Z=0.00 Location: X=1269.88 Y=2826.74 Z=36.21 Normal: X=0.99 Y=-0.11 Z=0.00 PenetrationDepth:1.632 Actor:BP_Enemy1_C_4 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.00:708][263]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=205.20 Y=169.58 Z=0.00 Location: X=1033.49 Y=2108.69 Z=36.21 Normal: X=-0.14 Y=0.99 Z=-0.00 PenetrationDepth:1.744 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (107 other events since notify)
+[2024.08.29-02.33.00:965][293]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=265.71 Y=-16.22 Z=0.00 Location: X=1007.85 Y=2171.75 Z=35.98 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.945 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (116 other events since notify)
+[2024.08.29-02.33.01:222][323]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=232.23 Y=130.12 Z=0.00 Location: X=1068.03 Y=2045.76 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.956 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.33.01:560][363]LogCharacterMovement: BP_Enemy3_C_7 is stuck and failed to move! Velocity: X=-43.23 Y=-262.67 Z=0.00 Location: X=1338.51 Y=2863.71 Z=52.06 Normal: X=0.93 Y=0.22 Z=0.30 PenetrationDepth:6.694 Actor:BP_Enemy1_C_5 Component:Hit BoneName:None (116 other events since notify)
+[2024.08.29-02.33.01:561][363]LogCharacterMovement: BP_Enemy1_C_5 is stuck and failed to move! Velocity: X=204.04 Y=-170.97 Z=0.00 Location: X=1271.97 Y=2826.43 Z=36.21 Normal: X=0.83 Y=0.57 Z=0.00 PenetrationDepth:0.629 Actor:BP_Enemy1_C_7 Component:Hit BoneName:None (112 other events since notify)
+[2024.08.29-02.33.01:715][381]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=260.58 Y=54.42 Z=0.00 Location: X=1033.63 Y=2108.72 Z=36.21 Normal: X=-0.14 Y=0.99 Z=-0.00 PenetrationDepth:1.740 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (109 other events since notify)
+[2024.08.29-02.33.01:967][411]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=265.70 Y=-16.24 Z=0.00 Location: X=1008.00 Y=2171.75 Z=35.98 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.969 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (116 other events since notify)
+[2024.08.29-02.33.02:222][441]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=252.44 Y=84.47 Z=0.00 Location: X=1068.04 Y=2045.76 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.966 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (116 other events since notify)
+[2024.08.29-02.33.02:569][482]LogCharacterMovement: BP_Enemy3_C_7 is stuck and failed to move! Velocity: X=-43.23 Y=-262.67 Z=0.00 Location: X=1338.51 Y=2863.71 Z=52.06 Normal: X=0.93 Y=0.22 Z=0.30 PenetrationDepth:6.694 Actor:BP_Enemy1_C_5 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.33.02:570][482]LogCharacterMovement: BP_Enemy1_C_5 is stuck and failed to move! Velocity: X=221.95 Y=-146.97 Z=0.00 Location: X=1271.97 Y=2826.43 Z=36.21 Normal: X=0.83 Y=0.57 Z=0.00 PenetrationDepth:0.629 Actor:BP_Enemy1_C_7 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.33.02:720][500]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=260.50 Y=54.78 Z=0.00 Location: X=1033.63 Y=2108.72 Z=36.21 Normal: X=-0.14 Y=0.99 Z=-0.00 PenetrationDepth:1.740 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.33.02:967][529]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=266.18 Y=3.64 Z=0.00 Location: X=1008.00 Y=2171.75 Z=35.98 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.969 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.33.03:151][550]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.03:151][550]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.03:225][559]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=266.20 Y=1.56 Z=0.00 Location: X=1068.20 Y=2045.77 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:1.993 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (108 other events since notify)
+[2024.08.29-02.33.03:576][600]LogCharacterMovement: BP_Enemy3_C_7 is stuck and failed to move! Velocity: X=-43.23 Y=-262.67 Z=0.00 Location: X=1338.51 Y=2863.71 Z=52.06 Normal: X=0.93 Y=0.22 Z=0.30 PenetrationDepth:6.694 Actor:BP_Enemy1_C_5 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.33.03:576][600]LogCharacterMovement: BP_Enemy1_C_5 is stuck and failed to move! Velocity: X=177.52 Y=-198.37 Z=0.00 Location: X=1271.97 Y=2826.43 Z=36.21 Normal: X=0.83 Y=0.57 Z=0.00 PenetrationDepth:0.629 Actor:BP_Enemy1_C_7 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.33.03:859][633]LogCharacterMovement: BP_Enemy1_C_12 is stuck and failed to move! Velocity: X=36.47 Y=-263.69 Z=0.00 Location: X=2020.76 Y=2140.50 Z=36.39 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:1.395 Actor:BP_Enemy1_C_8 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.04:577][715]LogCharacterMovement: BP_Enemy3_C_7 is stuck and failed to move! Velocity: X=-43.23 Y=-262.67 Z=0.00 Location: X=1338.51 Y=2863.71 Z=52.06 Normal: X=0.93 Y=0.22 Z=0.30 PenetrationDepth:6.694 Actor:BP_Enemy1_C_5 Component:Hit BoneName:None (114 other events since notify)
+[2024.08.29-02.33.04:578][715]LogCharacterMovement: BP_Enemy1_C_5 is stuck and failed to move! Velocity: X=225.72 Y=-141.12 Z=0.00 Location: X=1271.97 Y=2826.43 Z=36.21 Normal: X=0.83 Y=0.57 Z=0.00 PenetrationDepth:0.629 Actor:BP_Enemy1_C_7 Component:Hit BoneName:None (114 other events since notify)
+[2024.08.29-02.33.04:636][722]LogCharacterMovement: BP_Enemy1_C_8 is stuck and failed to move! Velocity: X=265.11 Y=-24.02 Z=0.00 Location: X=1998.92 Y=2035.77 Z=35.81 Normal: X=0.09 Y=1.00 Z=-0.00 PenetrationDepth:0.199 Actor:BP_Enemy1_C_13 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.05:580][833]LogCharacterMovement: BP_Enemy3_C_7 is stuck and failed to move! Velocity: X=-43.23 Y=-262.67 Z=0.00 Location: X=1338.51 Y=2863.71 Z=52.06 Normal: X=0.93 Y=0.22 Z=0.30 PenetrationDepth:6.694 Actor:BP_Enemy1_C_5 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.33.05:581][833]LogCharacterMovement: BP_Enemy1_C_5 is stuck and failed to move! Velocity: X=177.52 Y=-198.37 Z=0.00 Location: X=1271.97 Y=2826.43 Z=36.21 Normal: X=0.83 Y=0.57 Z=0.00 PenetrationDepth:0.629 Actor:BP_Enemy1_C_7 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.33.06:510][943]LogCharacterMovement: BP_Enemy1_C_10 is stuck and failed to move! Velocity: X=6.48 Y=-15.79 Z=0.00 Location: X=1272.22 Y=2901.33 Z=35.90 Normal: X=0.93 Y=0.36 Z=0.00 PenetrationDepth:0.019 Actor:BP_Enemy1_C_4 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.06:586][952]LogCharacterMovement: BP_Enemy3_C_7 is stuck and failed to move! Velocity: X=-43.23 Y=-262.67 Z=0.00 Location: X=1338.51 Y=2863.71 Z=52.06 Normal: X=0.73 Y=0.62 Z=0.29 PenetrationDepth:6.159 Actor:BP_Enemy1_C_5 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.33.07:445][ 53]LogCharacterMovement: BP_Enemy3_C_6 is stuck and failed to move! Velocity: X=-294.24 Y=-116.80 Z=0.00 Location: X=1976.26 Y=1851.85 Z=47.41 Normal: X=0.00 Y=-0.99 Z=0.15 PenetrationDepth:0.162 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.08:148][136]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.08:149][136]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.08:853][219]LogCharacterMovement: BP_Enemy3_C_10 is stuck and failed to move! Velocity: X=-60.82 Y=-34.07 Z=0.00 Location: X=1836.65 Y=1391.99 Z=48.30 Normal: X=-0.88 Y=-0.44 Z=0.16 PenetrationDepth:0.637 Actor:BP_Enemy1_C_14 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.11:391][513]LogCharacterMovement: BP_Enemy3_C_5 is stuck and failed to move! Velocity: X=-196.79 Y=-179.27 Z=0.00 Location: X=944.18 Y=1586.24 Z=46.09 Normal: X=0.51 Y=-0.85 Z=0.12 PenetrationDepth:0.188 Actor:BP_Enemy1_C_7 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.33.11:562][533]LogBlueprintUserMessages: [BP_PlayerGnome_C_0] 1
+[2024.08.29-02.33.12:503][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.33.12:503][637]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.33.12:504][637]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.29-02.33.12:504][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.33.12:507][637]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.29-02.33.12:510][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.29-02.33.12:540][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.33.12:578][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.33.12:579][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2024.08.29-02.33.12:579][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2024.08.29-02.33.12:582][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2024.08.29-02.33.12:624][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.08.29-02.33.12:656][638]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2024.08.29-02.33.35:978][200]BlueprintLog: New page: Compile BP_Enemy3
+[2024.08.29-02.33.36:037][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.08.29-02.33.37:334][335]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.29-02.33.37:340][335]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.29-02.33.37:340][335]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.29-02.33.37:341][335]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 246 ms)
+[2024.08.29-02.33.37:341][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.29-02.33.37:342][335]PIE: New page: PIE session: TopDownMap (28 ago. 2024 20:33:37)
+[2024.08.29-02.33.37:342][335]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.33.37:347][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004805s)
+[2024.08.29-02.33.37:347][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004938s)
+[2024.08.29-02.33.37:364][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.08.29-02.33.37:371][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.29-02.33.37:371][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.29-02.33.37:371][335]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.29-02.33.37:372][335]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.29-02.33.37:372][335]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.29-02.33.37:372][335]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.29-02.33.37:372][335]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.29-02.33.37:373][335]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.29-02.33.37:373][335]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 896 ms)
+[2024.08.29-02.33.37:373][335]LogPlayLevel: PIE: World Init took: (0.002741s)
+[2024.08.29-02.33.37:373][335]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2024.08.29-02.33.37:373][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.29-02.33.37:373][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.29-02.33.37:373][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.29-02.33.37:374][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.29-02.33.37:374][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.29-02.33.37:374][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.29-02.33.37:374][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.29-02.33.37:374][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.29-02.33.37:374][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.29-02.33.37:374][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.29-02.33.37:374][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.29-02.33.37:376][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.29-02.33.37:401][335]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.29-02.33.37:401][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.29-02.33.37:401][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.29-02.33.37:401][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.29-02.33.37:402][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2024.08.29-02.33.37:402][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=81
+[2024.08.29-02.33.37:404][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2024.08.29-02.33.37:404][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2024.08.29-02.33.37:404][335]LogInit: FAudioDevice initialized with ID 81.
+[2024.08.29-02.33.37:404][335]LogAudio: Display: Audio Device (ID: 81) registered with world 'TopDownMap'.
+[2024.08.29-02.33.37:404][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2024.08.29-02.33.37:407][335]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.29-02.33.37:409][335]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.28-23.33.37
+[2024.08.29-02.33.37:409][335]LogWorld: Bringing up level for play took: 0.001372
+[2024.08.29-02.33.37:411][335]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2024.08.29-02.33.37:414][335]PIE: Server logged in
+[2024.08.29-02.33.37:415][335]PIE: Play in editor total start time 0,075 seconds.
+[2024.08.29-02.33.42:344][918]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.47:338][517]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.52:342][117]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.57:343][710]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.33.59:383][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.33.59:383][949]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.33.59:383][949]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.29-02.33.59:383][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.33.59:384][949]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.29-02.33.59:387][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.29-02.33.59:394][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.33.59:410][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.29-02.33.59:410][949]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2024.08.29-02.33.59:410][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2024.08.29-02.33.59:413][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2024.08.29-02.33.59:419][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.33.59:424][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.08.29-02.33.59:452][950]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2024.08.29-02.34.37:374][564]BlueprintLog: New page: Compile BP_Enemy3
+[2024.08.29-02.34.37:416][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.08.29-02.34.38:032][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.29-02.34.38:067][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Enemy3" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Enemy3.uasset" SILENT=true
+[2024.08.29-02.34.38:093][613]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Enemy3
+[2024.08.29-02.34.38:094][613]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_Enemy34A74FC594788B47482191892E9411483.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Enemy3.uasset'
+[2024.08.29-02.34.38:100][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.64 sec)
+[2024.08.29-02.34.38:102][613]AssetCheck: New page: Asset Save: BP_Enemy3
+[2024.08.29-02.34.38:102][613]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Enemy3.BP_Enemy3
+[2024.08.29-02.34.39:542][765]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.29-02.34.39:549][765]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.29-02.34.39:549][765]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.29-02.34.39:550][765]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 247 ms)
+[2024.08.29-02.34.39:551][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.29-02.34.39:551][765]PIE: New page: PIE session: TopDownMap (28 ago. 2024 20:34:39)
+[2024.08.29-02.34.39:551][765]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.34.39:555][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003792s)
+[2024.08.29-02.34.39:555][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003911s)
+[2024.08.29-02.34.39:590][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.08.29-02.34.39:597][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.29-02.34.39:597][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.29-02.34.39:597][765]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.29-02.34.39:598][765]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.29-02.34.39:598][765]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.29-02.34.39:598][765]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.29-02.34.39:598][765]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.29-02.34.39:599][765]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.29-02.34.39:599][765]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 897 ms)
+[2024.08.29-02.34.39:599][765]LogPlayLevel: PIE: World Init took: (0.002828s)
+[2024.08.29-02.34.39:599][765]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2024.08.29-02.34.39:599][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.29-02.34.39:599][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.29-02.34.39:600][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.29-02.34.39:600][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.29-02.34.39:600][765]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.29-02.34.39:600][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.29-02.34.39:600][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.29-02.34.39:600][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.29-02.34.39:600][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.29-02.34.39:600][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.29-02.34.39:600][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.29-02.34.39:602][765]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.29-02.34.39:620][765]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.29-02.34.39:620][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.29-02.34.39:620][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.29-02.34.39:620][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.29-02.34.39:621][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2024.08.29-02.34.39:621][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=82
+[2024.08.29-02.34.39:623][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2024.08.29-02.34.39:623][765]LogInit: FAudioDevice initialized with ID 82.
+[2024.08.29-02.34.39:623][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2024.08.29-02.34.39:623][765]LogAudio: Display: Audio Device (ID: 82) registered with world 'TopDownMap'.
+[2024.08.29-02.34.39:623][765]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2024.08.29-02.34.39:626][765]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.29-02.34.39:628][765]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.28-23.34.39
+[2024.08.29-02.34.39:628][765]LogWorld: Bringing up level for play took: 0.001573
+[2024.08.29-02.34.39:630][765]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2024.08.29-02.34.39:632][765]PIE: Server logged in
+[2024.08.29-02.34.39:633][765]PIE: Play in editor total start time 0,085 seconds.
+[2024.08.29-02.34.44:550][353]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.34.49:551][953]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.34.54:551][551]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.34.59:544][150]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.35.04:262][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.35.04:262][708]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.35.04:262][708]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.29-02.35.04:263][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.35.04:263][708]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.29-02.35.04:266][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.29-02.35.04:274][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.35.04:293][708]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.29-02.35.04:294][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2024.08.29-02.35.04:294][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2024.08.29-02.35.04:296][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2024.08.29-02.35.04:300][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.35.04:306][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.08.29-02.35.04:336][709]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2024.08.29-02.35.27:933][307]LogDerivedDataCache: C:/Users/valentino/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1139 files in 1819 folders with total size 100 MiB.
+[2024.08.29-02.35.40:425][668]BlueprintLog: New page: Compile BP_Enemy3
+[2024.08.29-02.35.40:490][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.08.29-02.35.40:917][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.29-02.35.40:959][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Enemy3" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Enemy3.uasset" SILENT=true
+[2024.08.29-02.35.40:974][702]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Enemy3
+[2024.08.29-02.35.40:974][702]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_Enemy3C70C13B84ABF254959D7518FDE0A628A.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Enemy3.uasset'
+[2024.08.29-02.35.40:981][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 7.70 sec)
+[2024.08.29-02.35.40:983][702]AssetCheck: New page: Asset Save: BP_Enemy3
+[2024.08.29-02.35.40:983][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Enemy3.BP_Enemy3
+[2024.08.29-02.35.42:203][832]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.29-02.35.42:209][832]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.29-02.35.42:209][832]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.08.29-02.35.42:210][832]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 248 ms)
+[2024.08.29-02.35.42:211][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.29-02.35.42:211][832]PIE: New page: PIE session: TopDownMap (28 ago. 2024 20:35:42)
+[2024.08.29-02.35.42:211][832]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.35.42:216][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004604s)
+[2024.08.29-02.35.42:216][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004768s)
+[2024.08.29-02.35.42:233][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.29-02.35.42:238][832]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.29-02.35.42:238][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.29-02.35.42:239][832]LogAIModule: Creating AISystem for world TopDownMap
+[2024.08.29-02.35.42:239][832]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.29-02.35.42:239][832]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.29-02.35.42:239][832]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.29-02.35.42:239][832]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.29-02.35.42:240][832]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.08.29-02.35.42:240][832]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 898 ms)
+[2024.08.29-02.35.42:241][832]LogPlayLevel: PIE: World Init took: (0.002463s)
+[2024.08.29-02.35.42:241][832]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2024.08.29-02.35.42:241][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.29-02.35.42:241][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.29-02.35.42:241][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.29-02.35.42:241][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.29-02.35.42:241][832]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.29-02.35.42:241][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.29-02.35.42:241][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.29-02.35.42:241][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.29-02.35.42:241][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.29-02.35.42:241][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.29-02.35.42:242][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.29-02.35.42:244][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.29-02.35.42:263][832]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2024.08.29-02.35.42:264][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.29-02.35.42:264][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.29-02.35.42:264][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.29-02.35.42:265][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2024.08.29-02.35.42:265][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=83
+[2024.08.29-02.35.42:266][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2024.08.29-02.35.42:266][832]LogInit: FAudioDevice initialized with ID 83.
+[2024.08.29-02.35.42:266][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2024.08.29-02.35.42:267][832]LogAudio: Display: Audio Device (ID: 83) registered with world 'TopDownMap'.
+[2024.08.29-02.35.42:267][832]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2024.08.29-02.35.42:269][832]LogLoad: Game class is 'GM_Gnome_C'
+[2024.08.29-02.35.42:271][832]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.08.28-23.35.42
+[2024.08.29-02.35.42:271][832]LogWorld: Bringing up level for play took: 0.001648
+[2024.08.29-02.35.42:273][832]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2024.08.29-02.35.42:295][832]PIE: Server logged in
+[2024.08.29-02.35.42:296][832]PIE: Play in editor total start time 0,087 seconds.
+[2024.08.29-02.35.47:209][416]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.35.52:210][ 16]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.35.56:227][498]LogCharacterMovement: BP_Enemy1_C_0 is stuck and failed to move! Velocity: X=232.00 Y=130.53 Z=0.00 Location: X=1029.31 Y=1843.77 Z=36.39 Normal: X=-0.23 Y=0.97 Z=-0.00 PenetrationDepth:1.356 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.35.57:211][616]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.35.57:226][618]LogCharacterMovement: BP_Enemy1_C_0 is stuck and failed to move! Velocity: X=232.00 Y=130.53 Z=0.00 Location: X=1029.31 Y=1843.77 Z=36.39 Normal: X=-0.23 Y=0.97 Z=-0.00 PenetrationDepth:1.467 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.35.58:227][738]LogCharacterMovement: BP_Enemy1_C_0 is stuck and failed to move! Velocity: X=232.00 Y=130.53 Z=0.00 Location: X=1029.31 Y=1843.77 Z=36.39 Normal: X=-0.23 Y=0.97 Z=-0.00 PenetrationDepth:1.467 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.36.02:207][213]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.03:674][385]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=-111.56 Y=-241.69 Z=0.00 Location: X=639.25 Y=865.66 Z=35.73 Normal: X=-0.67 Y=-0.75 Z=-0.00 PenetrationDepth:0.175 Actor:BP_Enemy1_C_0 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.04:549][490]LogCharacterMovement: BP_Enemy1_C_0 is stuck and failed to move! Velocity: X=-17.25 Y=-29.46 Z=0.00 Location: X=691.79 Y=921.88 Z=36.39 Normal: X=-0.34 Y=-0.94 Z=-0.00 PenetrationDepth:1.080 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (89 other events since notify)
+[2024.08.29-02.36.04:674][505]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=-111.56 Y=-241.69 Z=0.00 Location: X=639.25 Y=865.66 Z=35.73 Normal: X=-0.66 Y=-0.75 Z=-0.00 PenetrationDepth:0.265 Actor:BP_Enemy1_C_0 Component:Hit BoneName:None (119 other events since notify)
+[2024.08.29-02.36.05:975][661]LogCharacterMovement: BP_Enemy1_C_0 is stuck and failed to move! Velocity: X=-16.93 Y=-2.12 Z=0.00 Location: X=570.53 Y=806.70 Z=36.39 Normal: X=-0.69 Y=-0.72 Z=0.00 PenetrationDepth:0.072 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (75 other events since notify)
+[2024.08.29-02.36.07:210][809]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.08:991][ 23]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=88.37 Y=251.10 Z=0.00 Location: X=665.29 Y=1273.76 Z=35.59 Normal: X=0.98 Y=-0.20 Z=0.00 PenetrationDepth:1.586 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (62 other events since notify)
+[2024.08.29-02.36.10:584][214]LogCharacterMovement: BP_Enemy3_C_0 is stuck and failed to move! Velocity: X=-125.50 Y=87.10 Z=0.00 Location: X=687.32 Y=1842.10 Z=60.31 Normal: X=-0.19 Y=0.92 Z=0.34 PenetrationDepth:2.884 Actor:BP_Enemy1_C_0 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.11:584][334]LogCharacterMovement: BP_Enemy3_C_0 is stuck and failed to move! Velocity: X=-254.87 Y=76.82 Z=0.00 Location: X=663.94 Y=1833.69 Z=60.67 Normal: X=-0.06 Y=0.93 Z=0.36 PenetrationDepth:3.164 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (101 other events since notify)
+[2024.08.29-02.36.12:208][408]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.12:431][435]LogCharacterMovement: BP_Enemy3_C_2 is stuck and failed to move! Velocity: X=120.46 Y=2.59 Z=0.00 Location: X=981.98 Y=2160.80 Z=60.49 Normal: X=0.87 Y=0.32 Z=0.38 PenetrationDepth:6.904 Actor:BP_Enemy1_C_0 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.12:589][454]LogCharacterMovement: BP_Enemy3_C_0 is stuck and failed to move! Velocity: X=258.95 Y=61.70 Z=0.00 Location: X=663.90 Y=1833.68 Z=60.67 Normal: X=-0.06 Y=0.93 Z=0.36 PenetrationDepth:3.182 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (118 other events since notify)
+[2024.08.29-02.36.17:211][  8]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.17:212][  8]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.19:588][292]LogCharacterMovement: BP_Enemy1_C_1 is stuck and failed to move! Velocity: X=-7.88 Y=196.85 Z=0.00 Location: X=1233.40 Y=2558.95 Z=36.20 Normal: X=1.00 Y=-0.00 Z=-0.00 PenetrationDepth:0.387 Actor:BP_Enemy1_C_3 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.21:450][515]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-14.04 Y=41.69 Z=0.00 Location: X=1341.73 Y=2848.06 Z=38.17 Normal: X=0.73 Y=-0.68 Z=-0.00 PenetrationDepth:1.159 Actor:BP_Enemy1_C_2 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.22:215][606]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=997.264 Y=2659.916 Z=5.434] for [BP_Enemy1_C]
+[2024.08.29-02.36.22:216][606]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.22:453][634]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-82.65 Y=-253.05 Z=0.00 Location: X=1341.76 Y=2847.99 Z=38.17 Normal: X=0.93 Y=0.38 Z=-0.00 PenetrationDepth:1.193 Actor:BP_Enemy1_C_0 Component:Hit BoneName:None (117 other events since notify)
+[2024.08.29-02.36.25:038][943]LogCharacterMovement: BP_Enemy1_C_3 is stuck and failed to move! Velocity: X=-2.53 Y=-16.88 Z=0.00 Location: X=1508.37 Y=1906.05 Z=35.71 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.017 Actor:BP_Enemy1_C_5 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.26:241][ 87]LogCharacterMovement: BP_Enemy3_C_5 is stuck and failed to move! Velocity: X=-181.23 Y=-111.27 Z=0.00 Location: X=1354.54 Y=1325.12 Z=63.77 Normal: X=0.00 Y=0.92 Z=0.39 PenetrationDepth:0.260 Actor:BP_Enemy1_C_9 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.26:316][ 96]LogCharacterMovement: BP_Enemy1_C_6 is stuck and failed to move! Velocity: X=-15.53 Y=-7.09 Z=0.00 Location: X=1402.51 Y=1396.16 Z=35.85 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.175 Actor:BP_Enemy1_C_1 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.27:006][177]LogCharacterMovement: BP_Enemy3_C_4 is stuck and failed to move! Velocity: X=-264.49 Y=30.15 Z=0.00 Location: X=1355.45 Y=1507.48 Z=60.20 Normal: X=0.00 Y=0.94 Z=0.34 PenetrationDepth:0.578 Actor:BP_Enemy1_C_6 Component:Hit BoneName:None (0 other events since notify)
+[2024.08.29-02.36.27:211][201]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.27:212][201]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.08.29-02.36.27:337][216]LogCharacterMovement: BP_Enemy1_C_4 is stuck and failed to move! Velocity: X=-68.24 Y=1.84 Z=0.00 Location: X=1182.23 Y=1724.12 Z=36.21 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.154 Actor:BP_Enemy1_C_0 Component:Hit BoneName:None (14 other events since notify)
+[2024.08.29-02.36.27:922][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.36.27:922][278]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.08.29-02.36.27:922][278]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.29-02.36.27:923][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.36.27:924][278]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.08.29-02.36.27:928][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.29-02.36.27:945][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.29-02.36.27:971][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.29-02.36.27:971][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2024.08.29-02.36.27:971][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2024.08.29-02.36.27:973][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2024.08.29-02.36.27:978][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.29-02.36.27:992][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.08.29-02.36.28:039][279]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2024.08.29-02.36.42:815][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.29-02.36.42:893][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.29-02.36.42:916][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.08.29-02.36.42:947][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.08.29-02.36.42:956][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 7.84 sec)
+[2024.08.29-02.36.43:657][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.29-02.36.44:574][875]LogSlate: Window 'Save Content' being destroyed
+[2024.08.29-02.36.44:595][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.29-02.36.44:623][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Enemy1" FILE="../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Enemy1.uasset" SILENT=true
+[2024.08.29-02.36.44:635][875]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Enemy1
+[2024.08.29-02.36.44:635][875]LogSavePackage: Moving '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Saved/BP_Enemy1F109959A4A54FC1BA105BDBAAC61136F.tmp' to '../../../../Grupo-1-Timer-Jam/Grupo1timerjam/TimerJam1C/Content/TopDown/Blueprints/BP_Enemy1.uasset'
+[2024.08.29-02.36.44:642][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 7.89 sec)
+[2024.08.29-02.36.44:644][875]AssetCheck: New page: Asset Save: BP_Enemy1
+[2024.08.29-02.36.44:644][875]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Enemy1.BP_Enemy1
