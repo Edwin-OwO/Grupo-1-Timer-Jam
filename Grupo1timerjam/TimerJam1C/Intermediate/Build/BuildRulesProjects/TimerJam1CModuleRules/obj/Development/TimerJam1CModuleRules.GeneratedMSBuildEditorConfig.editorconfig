@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TimerJam1CModuleRules
-build_property.ProjectDir = D:\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\BuildRulesProjects\TimerJam1CModuleRules\
+build_property.ProjectDir = D:\githubfacu\Grupo-1-Timer-Jam\Grupo1timerjam\TimerJam1C\Intermediate\Build\BuildRulesProjects\TimerJam1CModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

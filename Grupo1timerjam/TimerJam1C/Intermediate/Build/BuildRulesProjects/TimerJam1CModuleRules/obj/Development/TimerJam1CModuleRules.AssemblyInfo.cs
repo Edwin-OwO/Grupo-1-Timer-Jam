@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimerJam1CModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+796dafc3c7f546cd94f7b09504ea5706a678fa64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043c36772df18442815f55ce10db4ed618f8aade")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimerJam1CModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimerJam1CModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
